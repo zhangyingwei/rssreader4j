@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[罗磊的独立博客]]></title><description><![CDATA[前端工程师，深圳人，广州暨南大學，现就职于阅文集团(腾讯文学)，原猎豹移动用户体验部，写原创博客八年，简书推荐作者，骑行过318国道，长距离跑者。]]></description><link>http://luolei.org/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 16 Jun 2016 14:23:11 GMT</lastBuildDate><atom:link href="http://luolei.org/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Zkin Yeti双肩摄影背包:颜值和功能之间的平衡]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z5.JPG" class="lazy" alt="cover"></p>
+
+<p>最近陆陆续续购置了不少装备，无人机，微单，镜头，稳定器，运动相机，原来的邮差包和双肩包已经不能满足出行收纳的需求。</p>
+
+<p>目前出行会带的设备有:</p>
+
+<ul>
+<li>拍照和视频主力机:索尼A7S2,35mm镜头</li>
+<li>微单三轴稳定器:乐拍Beholder DS1稳定器</li>
+<li>随手口袋机:理光GR和GW-3广角转接镜头</li>
+<li>运动相机:智云Z1-Smooth C + 和小蚁运动相机（1、2代4K）</li>
+<li>富图宝X-4i便携三脚架</li>
+<li>富图宝RM-100 章鱼三脚架</li>
+</ul>
+
+<p>加上各种设备所需要的18650电池、相机电池，要带的辅助设备还挺多的。充电器什么的一半都是放酒店，但是随身电池、</p>
+
+<p>2016下半年安排了几次旅行，旅行中有较为繁重的拍摄任务，选购一个双肩包成了必须的选择。在张大妈，数字尾巴、Chiphell论坛搜了好久，摄影双肩包用朋友的一句评论就是：</p>
+
+<blockquote>
+  <p>「那些实用系的就是在比丑大赛」。</p>
+</blockquote>
+
+<p>实在是不想购买黑乎乎的那几个牌子的摄影包，还是想找一个稍微有点设计感和个性的包，最后发现香港这个小众品牌Zkin，刚好朋友也买了这包，看了他发的实拍照片，感觉还不错，遂在Zkin的大陆经销商淘宝店购买了2015年的新款灰色。</p>
+
+<video id="video" class="wrap" controls autoplay="autoplay" loop="loop" preload="none" poster="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/zkin.png">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/zkin.mp4">  
+</video>
+
+<p>包的型号Zkin Yeti，灰色颜值赞 ，全包防水。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z1.JPG" class="lazy" alt="full-img"></p>
+
+<p>从Zkin国内经销商淘宝店购置，</p>]]></description><link>http://luolei.org/zkin-yeti-backbag-review/</link><guid isPermaLink="false">c30d01bb-e55d-42e4-bf86-9ca2a9a71600</guid><category><![CDATA[数码]]></category><category><![CDATA[摄影]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Fri, 10 Jun 2016 14:28:19 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z2.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z2.JPG" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z5.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>最近陆陆续续购置了不少装备，无人机，微单，镜头，稳定器，运动相机，原来的邮差包和双肩包已经不能满足出行收纳的需求。</p>
+
+<p>目前出行会带的设备有:</p>
+
+<ul>
+<li>拍照和视频主力机:索尼A7S2,35mm镜头</li>
+<li>微单三轴稳定器:乐拍Beholder DS1稳定器</li>
+<li>随手口袋机:理光GR和GW-3广角转接镜头</li>
+<li>运动相机:智云Z1-Smooth C + 和小蚁运动相机（1、2代4K）</li>
+<li>富图宝X-4i便携三脚架</li>
+<li>富图宝RM-100 章鱼三脚架</li>
+</ul>
+
+<p>加上各种设备所需要的18650电池、相机电池，要带的辅助设备还挺多的。充电器什么的一半都是放酒店，但是随身电池、</p>
+
+<p>2016下半年安排了几次旅行，旅行中有较为繁重的拍摄任务，选购一个双肩包成了必须的选择。在张大妈，数字尾巴、Chiphell论坛搜了好久，摄影双肩包用朋友的一句评论就是：</p>
+
+<blockquote>
+  <p>「那些实用系的就是在比丑大赛」。</p>
+</blockquote>
+
+<p>实在是不想购买黑乎乎的那几个牌子的摄影包，还是想找一个稍微有点设计感和个性的包，最后发现香港这个小众品牌Zkin，刚好朋友也买了这包，看了他发的实拍照片，感觉还不错，遂在Zkin的大陆经销商淘宝店购买了2015年的新款灰色。</p>
+
+<video id="video" class="wrap" controls autoplay="autoplay" loop="loop" preload="none" poster="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/zkin.png">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/zkin.mp4">  
+</video>
+
+<p>包的型号Zkin Yeti，灰色颜值赞 ，全包防水。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z1.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>从Zkin国内经销商淘宝店购置，上海隔天就送到了。有一个塑料包包裹着。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z2.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>第一印象，灰色比较低调，包外材质是尼龙，防水溅。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z3.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>侧面，好大的Logo挂牌。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z4.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>侧脸45度，才用纽扣式配合拉练的开关，设计和外观还行，但是卡扣这些小细节给人的感觉是质感配不上这个价格，总觉得有点强度不够。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z5.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>Logo特写。Zkin走的是潮牌路线，性价比不算高，属于颜值系，看国外的广告，也都是请明星出境使用，黑人、陈小春都有用这个包。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z9.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>下部的相机收纳部分，内胆分隔可以自己移动搭配，放一个机身，两个定焦，再加一个变焦或者闪光灯问题不大，当然，对于更多镜头组的话，就不用考虑了，容量在这里限制。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z11.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>两边都有侧开口，方便横着拿东西出来，里面放了一个Rode的枪麦和品胜的2W毫安电池。防盗性嘛，见仁见智。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z15.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>顶部收纳，可以放一些随身的小物件，钱包什么的，刚好放下一个乐拍DS1（微单稳定器）和智云手机（运动相机）稳定器，再加一个章鱼三脚架，对于我来说，刚好解决了我的需求。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z14.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>上部收纳空间，也提供侧边拉练开头拿东西出来。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z12.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>背后有专门的电脑包，放13寸Macbook Air正合适，当然，一般肯定不背电脑，随身带iPad Pro。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z10.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>前方的袋子，里面有几个小分割，方便放电池，储存卡之类，我的电池，都专门拿盒子收纳了起来，空间刚好塞进去。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z7.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z8.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>侧挂三脚架啊，实用的是富宝图X-4i便携，这里要吐槽一下，侧挂三脚架还是挺不方便的，总是甩来甩去，下方有一个三脚架的收纳底袋，挂下面倒可以固定住。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z19.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>包自带一个防水罩，收纳在包底部的隔层袋里面，一开始我心里还想怎么没有袋子，难道忘记给我送了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/zkin/z20.JPG" class="lazy" alt="Zkin Yeti双肩摄影背包:颜值和功能之间的平衡"></p>
+
+<p>这是补拍的照片，Zkin这个包给人感觉就是好多袋子！好多格子！各种互通，可以看出设计的时候还是花了心思了。</p>
+
+<p>最后再说一下背负系统，在这里说一下自己的感觉。</p>
+
+<p>Zkin Yeti包裸重是2.0kg，跟其他设备包都差不多，把我所有的装备都放进去后，将近7公斤，14多斤，还是挺不轻的。出门在外，尤其是旅行的话，背着这么多设备跑来跑去还是挺累的，一个良好的背负系统就重要多了。</p>
+
+<p>Zkin Yeti的背带宽度还是够的，能分担肩部压力，但是胸部横向手收紧带扣起来不方便（环扣，不是卡扣），没有腰部固定横带，相比专业的旅行背包，登山背包那种，还是差了不少。</p>
+
+<h4 id="">总结</h4>
+
+<p>购买Zkin Yeti，大多数人最开始关注的应该就是颜值，我的第一感觉就是，Zkin在不便宜的价格和优秀的外观设计风格的基础上，还是做到了一个摄影包应该做到的事情。</p>
+
+<p>比较适合那种在颜值和功能之间寻找一个平衡的年轻旅行者和拍摄者。</p>]]></content:encoded></item><item><title><![CDATA[左罗日志:索尼A7S2上海街头随拍]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh17.JPG?v=1?" class="lazy" alt="cover"></p>
+
+<p>要干正事，入了大法神教，花了血本入了索尼的<a href="https://s.taobao.com/search?q=a7s2&amp;imgfile=&amp;commend=all&amp;ssid=s5-e&amp;search_type=item&amp;sourceId=tb.index&amp;spm=a21bo.50862.201856-taobao-item.1&amp;ie=utf8&amp;initiative_id=tbindexz_20160610&amp;app=detailproduct&amp;through=1">A7S2</a>，蔡司的<a href="https://s.taobao.com/search?q=fe35+2.8&amp;imgfile=&amp;ie=utf8">FE35mm F2.8光圈镜头</a>和一系列的设备，端午假期第一天，带着妹纸去南京西路拍一下街拍。</p>
+
+<p>刚好也是一年前，用<a href="https://luolei.org/tag/ricohgr/">理光GR</a>在上海拍了一个<a href="https://luolei.org/meet-shanghai-july/">【遇见】外滩周末小逛</a>，今天，这部是理光GR5倍价格的A7S2有什么样表现，这篇博文，作为A7S2的开门分享，也当作是一个作业。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh1.JPG?v=1" class="lazy" alt="full-img"></p>
+
+<p>今天上海天气有点阴，中午1点出门，世界像在一个柔光箱下面。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh2.JPG?v=1" class="lazy" alt="full-img"></p>
+
+<p>街边等车，35mm焦段人文镜头对于这种场景掌握起来还是挺轻松的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh4.JPG?v=1" class="lazy" alt="full-img"></p>
+
+<p>首先打车去了陆家嘴的国金苹果专卖店，买了一根<a href="http://www.apple.com/cn/shop/product/MJYT2FE/A/lightning-%E8%87%B3-sd-%E5%8D%A1%E7%9B%B8%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%99%A8?fnode=91">Liginting to SD</a>转接线，可以直接连接iOS设备导入SD卡中的照片，旅途中一定程度上可以摆脱电脑，直接分享和处理照片。228元的价格还算可以接受。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh5.JPG?v=1" class="lazy" alt="full-img"> <br>
+端午小长假第一天，国金这块人还是挺多的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh6.JPG?v=1" class="lazy" alt="full-img"> <br>
+天桥上抓拍一张，A7S2像素只有1200万像素，高感神器，我买这部相机都用来拍视频的，拍照素质绝对也属于牛逼的级别了，像素虽低（A7R2 4千万像素是拍照神器)，但是对于我们这种就发发朋友圈、微博、博客的用户来说，</p>]]></description><link>http://luolei.org/zuoluo-life-log-sony-a7s2/</link><guid isPermaLink="false">2ced4f92-8ca9-4a04-8188-64800d3843e3</guid><category><![CDATA[摄影]]></category><category><![CDATA[生活]]></category><category><![CDATA[妹纸]]></category><category><![CDATA[索尼A7S2]]></category><category><![CDATA[左罗日志]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Thu, 09 Jun 2016 17:23:58 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh17.JPG?ver=1" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh17.JPG?ver=1" alt="左罗日志:索尼A7S2上海街头随拍"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh17.JPG?v=1?" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>要干正事，入了大法神教，花了血本入了索尼的<a href="https://s.taobao.com/search?q=a7s2&amp;imgfile=&amp;commend=all&amp;ssid=s5-e&amp;search_type=item&amp;sourceId=tb.index&amp;spm=a21bo.50862.201856-taobao-item.1&amp;ie=utf8&amp;initiative_id=tbindexz_20160610&amp;app=detailproduct&amp;through=1">A7S2</a>，蔡司的<a href="https://s.taobao.com/search?q=fe35+2.8&amp;imgfile=&amp;ie=utf8">FE35mm F2.8光圈镜头</a>和一系列的设备，端午假期第一天，带着妹纸去南京西路拍一下街拍。</p>
+
+<p>刚好也是一年前，用<a href="https://luolei.org/tag/ricohgr/">理光GR</a>在上海拍了一个<a href="https://luolei.org/meet-shanghai-july/">【遇见】外滩周末小逛</a>，今天，这部是理光GR5倍价格的A7S2有什么样表现，这篇博文，作为A7S2的开门分享，也当作是一个作业。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh1.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>今天上海天气有点阴，中午1点出门，世界像在一个柔光箱下面。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh2.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>街边等车，35mm焦段人文镜头对于这种场景掌握起来还是挺轻松的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh4.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>首先打车去了陆家嘴的国金苹果专卖店，买了一根<a href="http://www.apple.com/cn/shop/product/MJYT2FE/A/lightning-%E8%87%B3-sd-%E5%8D%A1%E7%9B%B8%E6%9C%BA%E8%AF%BB%E5%8D%A1%E5%99%A8?fnode=91">Liginting to SD</a>转接线，可以直接连接iOS设备导入SD卡中的照片，旅途中一定程度上可以摆脱电脑，直接分享和处理照片。228元的价格还算可以接受。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh5.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"> <br>
+端午小长假第一天，国金这块人还是挺多的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh6.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"> <br>
+天桥上抓拍一张，A7S2像素只有1200万像素，高感神器，我买这部相机都用来拍视频的，拍照素质绝对也属于牛逼的级别了，像素虽低（A7R2 4千万像素是拍照神器)，但是对于我们这种就发发朋友圈、微博、博客的用户来说，完全可以Hold住。</p>
+
+<p>转场去了南京东路，妹纸头发飘逸。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh8.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"> <br>
+2.8的光圈背景虚化得还不错，好歹也是蔡司蓝标。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh9.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>去年的这个时候，是拿着这部理光GR在这拍妹纸，今年就变成了拍妹纸，和，理光GR，在这里我想说的就是:</p>
+
+<blockquote>
+  <p>理光GR是一部让我爱不释手的机器。</p>
+</blockquote>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh11.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>妹纸对GR也爱不释手。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh12.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>今年上海的夏天来得有点晚，都6月中旬了，还不热，路上穿上衣和短袖的共存。花倒是开得挺漂亮。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh13.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>在人民公园，接到快递电话，抓拍一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh14.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>路过人广的一家星巴克。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh15.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>星爸爸门口停着一些摩托车，最外面的一张复古型，还挺有特色的，妹纸客串一下车模。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh16.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>路过上海历史博物馆，也来一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh17.JPG?v=1?ver=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>大剧院前，坐在草地上，这张拍得感觉还不错，调色肤色好像有点冷了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh18.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>假装阳光灿烂（<del>并没有</del>）。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh19.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>路过一个小巷，在里面的咖啡茶座摆拍。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh20.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>路边的不一定是野花，好歹也是人工种植的对吧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh22.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>保安大叔提醒我们小心车辆，拍完了快点离开。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh23.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>快下午五点了，到了饭点，后面的这家餐厅排起了队。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh24.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>红人群里的小白妞。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh25.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>去妹纸公司楼下八色烤肉吃了一顿韩国料理，说实话还挺喜欢韩国料理的，之前在首尔的时候吃了好多泡菜。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh26.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>泡菜，酸酸脆脆。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/06/sony/sh27.JPG?v=1" class="lazy" alt="左罗日志:索尼A7S2上海街头随拍"></p>
+
+<p>秀色可餐。</p>
+
+<h4 id="">总结</h4>
+
+<p>全程基本都是A档，今天出门带了乐拍的稳定器，三脚架，章鱼架，四块电池，中途录了不少视频，一天下来用了两块电池，拍视频的时候掉电还是挺快的，出去旅行的话，保险还是得1+3(备)的搭配，以防到了晚上开不了机。</p>
+
+<p>色彩配置选择默认，还在熟练机器中，不少照片出现了没对准焦，快门不够的情况，慢慢练吧。总之对于这台新欢，还是很喜欢的。</p>]]></content:encoded></item><item><title><![CDATA[我在读什么:2016春季读书分享]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/read.jpg" class="lazy" alt="cover"></p>
+
+<p>老主题，老习惯，这个标题，每年两度的读书总结，春季分享又来了。</p>
+
+<p>读书是一个挺私人的事情，现在这个时代，很难再有机会找人交流读书，把自己读过的书，以书单的方式公开出来，也算是一个我内心一部分的写照。</p>
+
+<p>某种程度上，一个人读什么书，可以反应一个人的某些性格、兴趣和特征，过去这四年读的百来本书，一定意义上也是过去这几年自己内心的思考和探索旅程。</p>
+
+<ul>
+<li><a href="https://luolei.org/what-i-read-in-2015/">【年終卷】2015年我读了哪些书？</a></li>
+<li><a href="https://luolei.org/what-i-read-in-2015-spring/">我在读什么:2015春季读书分享</a></li>
+<li><a href="https://luolei.org/what-i-read-in-2014/">【年終卷】2014年我读了哪些书？</a></li>
+<li><a href="https://luolei.org/what-i-read-in-2014-spring/">我在读什么:2014春季读书分享</a></li>
+<li><a href="https://luolei.org/books-i-read-in-2013/">《2013年我看过哪些值得推荐的好书？》</a></li>
+</ul>
+
+<h4 id="">前言</h4>
+
+<p>数了一下豆瓣，过去这五个月，一共读了17本书，平均每个月约4本，一二月读书较多，春节回来之后工作繁忙，读书时间一下子就少了许多，另外读了三本前端技术相关的书，由于偏专业，就不列在书单之中了。</p>
+
+<p>这半年自己的读书主题稍微集中在「中国现代企业发展」，重点看了改革开放之后这一批中国民营企业和企业家的历史，还是收益颇丰，对自己的工作、思维也是有不少启发。其他主题和领域中也读了几本互联网和商业相关的书。</p>
+
+<h4 id="">书单</h4>
+
+<p>这次的书单就不再按月份时间叙述，就按照从近往远的时间倒序来吧。</p>
+
+<p>1.<a href="https://book.douban.com/subject/1426971/">野火集 : 二十年纪念版</a></p>]]></description><link>http://luolei.org/what-i-read-in-2016-spring/</link><guid isPermaLink="false">ab69e0e5-c9b0-4309-b2a9-a250fb779cf6</guid><category><![CDATA[读书]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sun, 08 May 2016 09:29:09 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/read.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/05/read.jpg" alt="我在读什么:2016春季读书分享"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/read.jpg" class="lazy" alt="我在读什么:2016春季读书分享"></p>
+
+<p>老主题，老习惯，这个标题，每年两度的读书总结，春季分享又来了。</p>
+
+<p>读书是一个挺私人的事情，现在这个时代，很难再有机会找人交流读书，把自己读过的书，以书单的方式公开出来，也算是一个我内心一部分的写照。</p>
+
+<p>某种程度上，一个人读什么书，可以反应一个人的某些性格、兴趣和特征，过去这四年读的百来本书，一定意义上也是过去这几年自己内心的思考和探索旅程。</p>
+
+<ul>
+<li><a href="https://luolei.org/what-i-read-in-2015/">【年終卷】2015年我读了哪些书？</a></li>
+<li><a href="https://luolei.org/what-i-read-in-2015-spring/">我在读什么:2015春季读书分享</a></li>
+<li><a href="https://luolei.org/what-i-read-in-2014/">【年終卷】2014年我读了哪些书？</a></li>
+<li><a href="https://luolei.org/what-i-read-in-2014-spring/">我在读什么:2014春季读书分享</a></li>
+<li><a href="https://luolei.org/books-i-read-in-2013/">《2013年我看过哪些值得推荐的好书？》</a></li>
+</ul>
+
+<h4 id="">前言</h4>
+
+<p>数了一下豆瓣，过去这五个月，一共读了17本书，平均每个月约4本，一二月读书较多，春节回来之后工作繁忙，读书时间一下子就少了许多，另外读了三本前端技术相关的书，由于偏专业，就不列在书单之中了。</p>
+
+<p>这半年自己的读书主题稍微集中在「中国现代企业发展」，重点看了改革开放之后这一批中国民营企业和企业家的历史，还是收益颇丰，对自己的工作、思维也是有不少启发。其他主题和领域中也读了几本互联网和商业相关的书。</p>
+
+<h4 id="">书单</h4>
+
+<p>这次的书单就不再按月份时间叙述，就按照从近往远的时间倒序来吧。</p>
+
+<p>1.<a href="https://book.douban.com/subject/1426971/">野火集 : 二十年纪念版</a> 龙应台 / 文汇出版社 </p>
+
+<p>几年前，我也曾以内龙应台真是一位“先生”，读毕野火集，三十年前的那个台湾，与现在的大陆是多么相似，一样的丑陋和混乱，时代的错位，看到野火中所生气所评论的社会万象，再看到现在台湾社会的民风，一个是好奇，一个也对自己所要面对的社会充满了些许希望，每个时代和国家都有人或选择逃避，或选择呐喊。</p>
+
+<p>2.<a href="https://book.douban.com/subject/1464442/">道路与梦想 : 我与万科20年</a> 王石、缪川 / 中信出版社 </p>
+
+<p>相比王石后面的另一本自传体书籍《大道当然》，王石2006年的这本《道》更多还是关注房地产行业和万科本身，回顾了万科创业初始的不少经历，算是这段时间自己对中国改革后民企发展史的一个收尾。</p>
+
+<p>3.<a href="https://book.douban.com/subject/1793990/">早晨从中午开始</a> 路遥 / 西北大学出版社</p>
+
+<p>还记得是初中的时候读的《平凡的世界》，《平凡》一书也是唯一一本由于图书馆借不到最后一卷，而没有读完的长篇小说，读路遥写完《平凡的世界》之后，记录创作过程和心路历程的《早晨》，没想到创造一篇文学作品居然要下这么大的功夫和准备，创作者真不容易。</p>
+
+<p>4.<a href="https://book.douban.com/subject/6969827/">理想丰满</a> 冯仑 / 文化艺术出版社 </p>
+
+<p>地产界的作家冯仑的杂文集，记录了中国民营企业创业初始的生态和第一批民营企业家的历程，有不少冯仑对中国商界的感悟。</p>
+
+<p>5.<a href="https://book.douban.com/subject/3932520/">免费 : 商业的未来</a> 美 克里斯·安德森 / 蒋旭峰、冯斌、璩静 / 中信出版社</p>
+
+<p>互联网行业前两年推得很火热的一本畅销书,把常见的现象背后的道理用一本书系统地写出来。可以略读。</p>
+
+<p>6.<a href="https://book.douban.com/subject/2348372/">野蛮生长</a> 冯仑 / 中信出版社</p>
+
+<p>第一次读冯仑的书，了解一下万通和万通六君子这个中国企业的企业家的思想，最近读中国民营企业发展史。谈及原罪、中国特色企业文化和变革、制度的重要，学习了。</p>
+
+<p>7.<a href="https://book.douban.com/subject/1438948/">卖桔者言</a> 张五常 / 四川人民出版社</p>
+
+<p>看书评说这是「经济学」入门读物，讲了不少产权理论，实证经济学，站在90年代学者的视角，看那个时代经济学家对社会和市场的看法，谈97回归的有点意思。</p>
+
+<p>8.<a href="https://book.douban.com/subject/1072438/">大败局</a> 吴晓波 / 浙江人民出版社</p>
+
+<p>书中所说的这些企业基本都是自己童年的印象，同激荡30年一样，了解中国改革后的具体企业案例发展史。</p>
+
+<p>9.<a href="https://book.douban.com/subject/3151575/">激荡三十年 : 中国企业1978-2008</a> 吴晓波 / 中信出版社 </p>
+
+<p>了解一下过去这三十年与我们成长密切相关的中国企业发展史，不由感慨下80、90年代这些丛林时代的草莽中国企业家的经历真的也是好辛酸和精彩呀，观念的突破，灰色地带的游荡，制度的变革，不管怎么说，这的确是一个充满了可能性的时代。</p>
+
+<p>10.<a href="https://book.douban.com/subject/4292120/">低智商社会 : 如何从智商衰退中跳脱出来</a> (日) 大前研一 / 千太阳 / 中信出版社 </p>
+
+<p>想群嘲但是又没有什么深度，为数不多启发的一句话想一想自己的临终时候应该说些什么。</p>
+
+<p>11.<a href="https://book.douban.com/subject/25846075/">技术的本质 : 技术是什么，它是如何进化的</a> 布莱恩?阿瑟（Brian Arthur） / 曹东溟、王健 / 浙江人民出版社</p>
+
+<p>把技术当成一个进化的有生物来看待。需要静下心来读，一开始还有点云里雾里，后来越来越有意思，尤其是结合自己的工作，很多思维和现象都很亲切。</p>
+
+<p>12.<a href="https://book.douban.com/subject/5379664/">浅薄 : 互联网如何毒化了我们的大脑</a> [美] 尼古拉斯·卡尔 / 刘纯毅 / 中信出版社</p>
+
+<p>一开始以为是科技鸡汤，中间讲了不少人类记忆形成的大脑机制，还是挺有启发的。学会如何思考的真正含义就是要学会训练对思考方式和思考内容加以控制的能力。这意味着：对于你选择关注的对象以及你如何从经验当中构建意义，你要有足够的意识和了解。口号式和标题党式的总结，某种程度上，就是这种工具和技术影响我们的产物。</p>
+
+<p>13.<a href="https://book.douban.com/subject/21326266/">与机器赛跑 : 数字革命如何加速创新、推动生产力，并且不可逆转地改变就业和经济</a> [美]埃里克·布林约尔松（Erik Brynjolfsson）、[美]安德鲁·麦卡菲（Andrew McAfee） / 闾佳</p>
+
+<p>技术对人类社会的影响也是一种马太效应，高技能、强资本越高越强，不上不下的半熟练技术工人随时被自动化所威胁，说不定过多二十三十年，如果技术的发展与人口的发展（教育水平balblabl）产生了一个断层，说不定我们周围的不少人的生活就真收到影响了，贫富差距更大了。</p>
+
+<p>14.<a href="https://book.douban.com/subject/25986341/">万万没想到 : 用理工科思维理解世界</a> 万维钢（同人于野） / 电子工业出版社</p>
+
+<p>周末读完这本轻松愉快的经济学社会学科学杂七杂八的文集，算是一个引子书，发现周围平常现象背后的规律，了解下人类的思维，又发现了几本好书，放进书单了。</p>
+
+<p>15.<a href="https://book.douban.com/subject/26541801/">增长黑客 : 创业公司的用户与收入增长秘籍</a> 范冰 / 电子工业出版社 </p>
+
+<p>给部门采购了这本书，晚上花了三个小时读完，里面的案例很新，有点案例的集合的味道，做产品需要利用工具、关注数据，第一次知道Growth Officer增长官这个职位，还挺有意思的。</p>
+
+<p>16.<a href="https://book.douban.com/subject/22606919/">高城堡里的人</a> (美)菲利普·迪克 / 李广荣 / 译林出版社 </p>
+
+<p>之前看亚马逊的自制剧《高堡奇人》，又找到原著读了下，原来是菲利浦迪克的作品，电视剧改编剧情变化好大。架空历史小说，背景是二次世界大战中，轴心国战胜了盟国，纳粹德国和日本分别占领了美国的东部和西部，很有趣的小说。</p>
+
+<p>17.<a href="https://book.douban.com/subject/6530843/">千门之美</a> 楼庆西 / 清华大学出版社</p>
+
+<p>有言「建筑是一个民族文化的结晶」，清华建筑学院楼庆西先生中国古代建筑装饰五书之一《千门之美》，算是浅易易懂、图文并茂的入门书籍，一点都不沉闷。讲中国不同地方、不同时期、不同社会阶级的建筑之门，以城之门、宫之门、庙堂之门、宅第之门和大门装饰五大分类展现门之美。强烈推荐一下北京和江浙一带的朋友了解一下，紫禁城，颐和园不愧是中国古代建筑、园林集大成者。出去玩的时候也能知道各种建筑的文化底蕴。</p>
+
+<p>18.<a href="https://zh.wikipedia.org/zh/%E7%A7%A6%E6%99%96">走出帝制</a>  秦晖</p>
+
+<p>一本在中国出版上架不到一个月，然后被当局封杀的书，谈中国宪政发展史，读毕之后感觉尚可，某家人还是太敏感了。</p>]]></content:encoded></item><item><title><![CDATA[Kindle Oasis入手]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k6.JPG" class="lazy" alt="cover"></p>
+
+<p>2013年2月，入手了Kindle Paperwhite，<a href="https://luolei.org/kindle-paper-white-review/">【数码】Kindle paperwhite入手评测</a>，三年中，这部第一代的Paperwhite陪我走过了成百上千个日日夜夜，捧着他读了若干书。</p>
+
+<p>我曾经说过:</p>
+
+<blockquote>
+  <p>Kindle Paperwhite是我入手的性价比最高的数码设备。</p>
+</blockquote>
+
+<p>1000不到的价格，收获了无法估量的知识。这部Kindle Paperwhite也命运忐忑，由于习惯裸奔，屏幕被我摔坏了两次，在淘宝维修了几次，身上也是刮痕累累。</p>
+
+<p>四月底Kinlde发布了最新的旗舰<a href="https://www.amazon.cn/kindle-store/dp/B010EJPW7C">Oasis</a>，国行售价2399人民币，比上一代的旗舰<a href="https://www.amazon.cn/gp/product/B00MEY0VWW/ref=fs_kindlev">Kindle Voyage</a>贵了将近900元，差了一部KPW的售价。</p>
+
+<p>说来也是巧，就在国行发布会的那一天，我的老KPW的背光坏了，考虑了一下，下单购买了新的Oasis。从性价比的角度，Oasis肯定不是一个「物美价廉」的电子产品，这个价格，都可以入一个iPad Mini了。</p>
+
+<p>但是从Oasis的定价和定位来说，他注定走的就不是一个亲民和平价的路线，负责性价比的产品线是KPW，至于Oasis的目标群体，可以说就是Kindle的重度用户。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k1.JPG" class="lazy" alt="full-img"></p>
+
+<p>这次Oasis的包装是一个偏方正的盒子，封面上印有皮套的颜色。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k2.JPG" class="lazy" alt="full-img"></p>
+
+<p>这次我购买的是棕色皮套的Oasis，质感还不错。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k8.JPG" class="lazy" alt="full-img"></p>
+
+<p>皮套和Kindle</p>]]></description><link>http://luolei.org/kindle-oasis-review/</link><guid isPermaLink="false">f81ca29b-92ed-48e1-b961-4c11302eb8e6</guid><category><![CDATA[kindle]]></category><category><![CDATA[数码]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sun, 08 May 2016 04:21:26 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k11.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k11.JPG" alt="Kindle Oasis入手"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k6.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>2013年2月，入手了Kindle Paperwhite，<a href="https://luolei.org/kindle-paper-white-review/">【数码】Kindle paperwhite入手评测</a>，三年中，这部第一代的Paperwhite陪我走过了成百上千个日日夜夜，捧着他读了若干书。</p>
+
+<p>我曾经说过:</p>
+
+<blockquote>
+  <p>Kindle Paperwhite是我入手的性价比最高的数码设备。</p>
+</blockquote>
+
+<p>1000不到的价格，收获了无法估量的知识。这部Kindle Paperwhite也命运忐忑，由于习惯裸奔，屏幕被我摔坏了两次，在淘宝维修了几次，身上也是刮痕累累。</p>
+
+<p>四月底Kinlde发布了最新的旗舰<a href="https://www.amazon.cn/kindle-store/dp/B010EJPW7C">Oasis</a>，国行售价2399人民币，比上一代的旗舰<a href="https://www.amazon.cn/gp/product/B00MEY0VWW/ref=fs_kindlev">Kindle Voyage</a>贵了将近900元，差了一部KPW的售价。</p>
+
+<p>说来也是巧，就在国行发布会的那一天，我的老KPW的背光坏了，考虑了一下，下单购买了新的Oasis。从性价比的角度，Oasis肯定不是一个「物美价廉」的电子产品，这个价格，都可以入一个iPad Mini了。</p>
+
+<p>但是从Oasis的定价和定位来说，他注定走的就不是一个亲民和平价的路线，负责性价比的产品线是KPW，至于Oasis的目标群体，可以说就是Kindle的重度用户。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k1.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>这次Oasis的包装是一个偏方正的盒子，封面上印有皮套的颜色。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k2.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>这次我购买的是棕色皮套的Oasis，质感还不错。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k8.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>皮套和Kindle Oasis的机身采用磁性贴附，可以拆卸，皮套中有额外的电池供电，这样的设计，让此代Kindle Oasis成为有史以来续航最长(戴着皮套)和最薄(取下皮套)的设备，感觉亚马逊在玩文字游戏，好奸诈的广告。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k4.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>取下皮套手持，Oasis有实体翻页按键，也自带重力感应，可以随着左右手持的变化自动转向。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k6.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>戴上皮套手持，分量略重了一点点，心理的安全感足了很多，不担心手滑掉地上了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k10.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>Oasis这一代分辨率跟Voyage一样，看书的颗粒度基本没有，质感和体验很好。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k5.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>之前我的老KPW一直用多看的系统，Kindle 5.6.1更新后UI变了不少，感觉还不错。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k12.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>KPW1代，KPW2代和Oasis的合影，相比之下，Oasis真的是小巧和精致了不少。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/oasis/k11.JPG" class="lazy" alt="Kindle Oasis入手"></p>
+
+<p>正面对比，Oasis矮了不少，三个设备的屏幕大小倒都是一样，但是明显Oasis的屏占比大多了。</p>
+
+<h4 id="">评价</h4>
+
+<p>这几个月，工作忙了，看书的时间相比以前是少了不少，购买Oasis，一方面是换代，一方面也是带有一种情怀吧。</p>
+
+<p>现在对一个数码设备，倒也不像以前那么过多关注参数和性能。想到之前听到的一句话:</p>
+
+<blockquote>
+  <p>在你可承受的范围的内，购买最好的产品。</p>
+</blockquote>
+
+<p>一个优秀的产品，能带给用户的不仅仅是数据和性能上的好看和高级，更也是一种态度和生活方式。购买它，使用它，享受它。让物件给你的生活带来便利，少一些纠结，用更宝贵的时间去创造更有意义的价值。</p>]]></content:encoded></item><item><title><![CDATA[第一次当伴郎是什么体验？]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w19.JPG" class="lazy" alt="cover"></p>
+
+<h4 id="">前记</h4>
+
+<p>3月30号，许久没联系的高中哥们ZPQ突然发来微信问:</p>
+
+<blockquote>
+  <p>磊哥五一回深圳不</p>
+</blockquote>
+
+<p>ZPQ是我高中同学，也是高中寄宿的时候「睡在我上铺的兄弟」，高中毕业之后，我去了广州，他留在了深圳，五六年联系虽少了，但是家靠得近，也算是缘分，看到这么一问题，我脑袋里一下子想到的就是「这丫结婚了」，于是我们之前发生了这么一场对话。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/we1.jpg" class="lazy" alt="full-img"></p>
+
+<p>接下来的事就一气呵成了，订机票，确定行程。本来五一也没啥打算，既然老朋友邀请我去当伴郎，那么就恭敬不如从命了。</p>
+
+<h4 id="happywedding">Happy Wedding</h4>
+
+<p>新郎新娘请了专业的婚礼团队和摄影摄像团队，这篇日志，也就稍微记录一下当伴郎的这一天的一些碎片镜头。这次婚礼新郎官邀请了高中大学约40位同学和好友，形式是西式花园式晚宴，来了将近20位高中同学，基本也算是顺便的高中同学聚会了。</p>
+
+<p>4月30的航班回深，五一当天就是婚礼，一大早，我同卷哥和达哥去深大。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w4.JPG" class="lazy" alt="full-img"></p>
+
+<p>依照新郎官安排，伴郎们统一着白衬衫+吊带领结，回深之前，在上海采购了一套西装和鞋子，也算是剁手不少。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w7.JPG" class="lazy" alt="full-img"></p>
+
+<p>运气也真是好，30号还下着小雨，1号这天虽然有点小阴，但是一天都下雨，下午时分还出了太阳，算是天公作美。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w1.JPG" class="lazy" alt="full-img"></p>
+
+<p>新郎新娘、伴郎伴娘，</p>]]></description><link>http://luolei.org/be-a-best-man-shenzhen-wedding/</link><guid isPermaLink="false">0e59bd8c-ec4e-4dbe-88d1-bae80171abce</guid><category><![CDATA[理光GR]]></category><category><![CDATA[深圳]]></category><category><![CDATA[摄影]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sat, 07 May 2016 14:06:00 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w15.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w15.JPG" alt="第一次当伴郎是什么体验？"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w19.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<h4 id="">前记</h4>
+
+<p>3月30号，许久没联系的高中哥们ZPQ突然发来微信问:</p>
+
+<blockquote>
+  <p>磊哥五一回深圳不</p>
+</blockquote>
+
+<p>ZPQ是我高中同学，也是高中寄宿的时候「睡在我上铺的兄弟」，高中毕业之后，我去了广州，他留在了深圳，五六年联系虽少了，但是家靠得近，也算是缘分，看到这么一问题，我脑袋里一下子想到的就是「这丫结婚了」，于是我们之前发生了这么一场对话。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/we1.jpg" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>接下来的事就一气呵成了，订机票，确定行程。本来五一也没啥打算，既然老朋友邀请我去当伴郎，那么就恭敬不如从命了。</p>
+
+<h4 id="happywedding">Happy Wedding</h4>
+
+<p>新郎新娘请了专业的婚礼团队和摄影摄像团队，这篇日志，也就稍微记录一下当伴郎的这一天的一些碎片镜头。这次婚礼新郎官邀请了高中大学约40位同学和好友，形式是西式花园式晚宴，来了将近20位高中同学，基本也算是顺便的高中同学聚会了。</p>
+
+<p>4月30的航班回深，五一当天就是婚礼，一大早，我同卷哥和达哥去深大。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w4.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>依照新郎官安排，伴郎们统一着白衬衫+吊带领结，回深之前，在上海采购了一套西装和鞋子，也算是剁手不少。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w7.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>运气也真是好，30号还下着小雨，1号这天虽然有点小阴，但是一天都下雨，下午时分还出了太阳，算是天公作美。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w1.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>新郎新娘、伴郎伴娘，一行人浩浩荡荡，游走在深大校园之中，新郎和新娘是大学校友，相识相爱快六年了，也是爱情长跑终于走进了婚姻的殿堂。跟着摄影师到处走走拍拍摄摄，搞怪不断。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w23.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>雅俗共赏，少儿不宜。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w21.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>今天我们伴郎装扮的一个亮点就是袜子，绿色骚爆全场。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w22.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>有爱情，也不能少了基情。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w15.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>这次带的相机依旧是理光GR和GW3广角，自拍毫不费力。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w9.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>上午在深大拍摄完毕，下午就赶去了婚礼场所，今天的婚礼在华侨城租了一天的小独栋花园，开放的庭院，下午四五点，受邀嘉宾们也陆陆续续到达了，大家谈情叙旧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w18.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>忙上忙下，新郎官也是累坏了，满头大汗，化妆师一路跟着补妆。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w12.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>访客们同新人不断合影，最帅莫过新郎官。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w19.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>当然也少不了自拍合影，基本人手一部iPhone，群里各种自拍自拍。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w26.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>一天各种精彩时刻，手机也常常是需要充电，也是辛苦了新郎官的小舅子，成了「移动充电站」。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w27.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>高三(2)班集合，高中同学出国的不少也回来了，大多同学也都是在深圳或者周边发展，出去上海北京的还是没几个。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w10.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>搞怪，搞怪，达哥自带逗逼属性。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w16.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>逐渐入夜，大家也入座准备开始婚礼晚宴，今天也邀请了高中的班主任老师。一群学生开着各种段子，老师说我们不是她教的，也真是对不起老师了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w5.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>高中的同学00同学和水哥也来了，穿得很有范。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w13.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>马上就要把新郎官送到新娘手上了，卷哥还有点舍不得，卷哥也是今晚的婚礼主持人。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w6.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>好没见到这么多高中同学了，掐指一算相识也都十年了，工作之后成家的成家，结婚的结婚，都是忙呀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w24.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>每个来宾都有一份小礼物。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w14.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>接下来的婚礼时刻，作为伴郎的我就负责站场和端酒了，卷哥主持技能加成，临场发挥深情，节奏把握得不错，我和达哥商量了下，以后我们的婚礼也请他了！</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w11.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>婚礼当然少不了抛绣球，幸运儿是大美女00。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w17.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>婚宴结束，新郎和新娘首先来了一只舞，真是羡慕和祝福呀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w25.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>舞蹈之后，当然少不了游戏环节，「你话我猜」，关键字大多跟我们的高中生活有关，也是满满的回忆。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/w2.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>不醉不归，达哥也是醉了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/05/wt.JPG" class="lazy" alt="第一次当伴郎是什么体验？"></p>
+
+<p>一场婚礼，预告这一对新人一生的幸福，也承载着我们这群兄弟和同学朋友的青春和回忆。</p>
+
+<blockquote>
+  <p>祝福大家。</p>
+</blockquote>]]></content:encoded></item><item><title><![CDATA[旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z10.JPG" class="lazy" alt="cover"></p>
+
+<p>在上一篇<a href="https://luolei.org/meet-in-seoul-a-iphone-travel-video/">用iPhone能拍出什么样的旅行视频?</a>，我分享了三月底在首尔旅行拍摄的小视频。</p>
+
+<p>在朋友圈和微博分享之后，收到不少好评，好几个朋友都问「怎么拍得这么稳」，今天这篇文章，就稍微做一个迟到的开箱，分享一下最新上市的<a href="https://knewone.com/things/zhi-yun-z1-smooth-xi-lie-shou-ji-shou-chi-yun-tai">智云三轴稳定器Z1-Smooth-C 2</a>，这款设备是三月上市的，售价约1300人民币，相比1代最大的变化就是由三个按钮控制云台变成了无极摇杆。</p>
+
+<h4 id="">什么是三轴稳定器？</h4>
+
+<p>DJI的osmo就是一个摄像头和云台一体的三轴稳定器，可是osmo三千多的价格摆在那里，实在是不便宜，加上自己更倾向于用操作更便捷、续航更强大的iPhone来拍摄视频，遂在上个月买了一款智云新升级的手持稳定器Z1-Smooth-C 2。 </p>
+
+<blockquote>
+  <p>拿在手上的云台，就是三轴稳定器。</p>
+</blockquote>
+
+<p>DJI的<a href="http://www.dji.com/cn/product/osmo">osmo</a>就是一个摄像头和云台一体的三轴稳定器。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z10.JPG" class="lazy" alt="full-img"></p>
+
+<p>从广西发货，三天后到手，拆开之后，是一个白色的盒子，正面上有稳定器的信息。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z4.JPG" class="lazy" alt="full-img"></p>
+
+<p>背面有稳定器的附件清单和基本结构。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z3.JPG" class="lazy" alt="full-img"></p>
+
+<p>掀开盖子，就是我们的稳定器正身了，中英日文说明书、保修卡、客服信息等均齐全。配件含:</p>
+
+<ul>
+<li>三轴稳定器机身</li>
+<li>18350电池2枚</li>
+<li>18350电池座充</li>
+<li>USB充电数据线</li>
+<li>稳定器配重</li>
+</ul>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z2.JPG" class="lazy" alt="full-img"></p>
+
+<p>俯视照。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z12.JPG" class="lazy" alt="full-img"></p>
+
+<p>相比Z1-Smooth-C，二代最大的变化就是摇杆，下图为一代的三点控制。这种无极摇杆，</p>]]></description><link>http://luolei.org/zhiyun-z1-smooth-review/</link><guid isPermaLink="false">e6fd9250-fb4c-458a-add2-cc18c88b8a5b</guid><category><![CDATA[数码]]></category><category><![CDATA[行摄]]></category><category><![CDATA[摄影]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sat, 09 Apr 2016 13:32:35 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z12.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z12.JPG" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z10.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>在上一篇<a href="https://luolei.org/meet-in-seoul-a-iphone-travel-video/">用iPhone能拍出什么样的旅行视频?</a>，我分享了三月底在首尔旅行拍摄的小视频。</p>
+
+<p>在朋友圈和微博分享之后，收到不少好评，好几个朋友都问「怎么拍得这么稳」，今天这篇文章，就稍微做一个迟到的开箱，分享一下最新上市的<a href="https://knewone.com/things/zhi-yun-z1-smooth-xi-lie-shou-ji-shou-chi-yun-tai">智云三轴稳定器Z1-Smooth-C 2</a>，这款设备是三月上市的，售价约1300人民币，相比1代最大的变化就是由三个按钮控制云台变成了无极摇杆。</p>
+
+<h4 id="">什么是三轴稳定器？</h4>
+
+<p>DJI的osmo就是一个摄像头和云台一体的三轴稳定器，可是osmo三千多的价格摆在那里，实在是不便宜，加上自己更倾向于用操作更便捷、续航更强大的iPhone来拍摄视频，遂在上个月买了一款智云新升级的手持稳定器Z1-Smooth-C 2。 </p>
+
+<blockquote>
+  <p>拿在手上的云台，就是三轴稳定器。</p>
+</blockquote>
+
+<p>DJI的<a href="http://www.dji.com/cn/product/osmo">osmo</a>就是一个摄像头和云台一体的三轴稳定器。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z10.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>从广西发货，三天后到手，拆开之后，是一个白色的盒子，正面上有稳定器的信息。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z4.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>背面有稳定器的附件清单和基本结构。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z3.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>掀开盖子，就是我们的稳定器正身了，中英日文说明书、保修卡、客服信息等均齐全。配件含:</p>
+
+<ul>
+<li>三轴稳定器机身</li>
+<li>18350电池2枚</li>
+<li>18350电池座充</li>
+<li>USB充电数据线</li>
+<li>稳定器配重</li>
+</ul>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z2.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>俯视照。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z12.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>相比Z1-Smooth-C，二代最大的变化就是摇杆，下图为一代的三点控制。这种无极摇杆，操作起来更加自然。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z16.jpg" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z11.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>Z1-Smooth C-2使用的是18350电池，但是可以通过购买<a href="https://s.taobao.com/search?q=%E6%99%BA%E4%BA%91+18650&amp;imgfile=&amp;commend=all&amp;ssid=s5-e&amp;search_type=item&amp;sourceId=tb.index&amp;spm=a21bo.50862.201856-taobao-item.1&amp;ie=utf8&amp;initiative_id=tbindexz_20160409">18650 加长套筒</a>使用相对而言更加常见的18650电池，以获得更长时间的续航。</p>
+
+<p>这次韩国之行，每天都在使用三轴稳定器，电池算不上瓶颈，可以肯定的是稳定器的续航绝对不会是日常使用的瓶颈。</p>
+
+<blockquote>
+  <p>你的手机、Gopro、小蚁之类的肯定会更早没电。</p>
+</blockquote>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z15.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>电池是通过底部插入，做工还是挺不错的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/zhiyun/z1.JPG" class="lazy" alt="旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器"></p>
+
+<p>顶部就是云台和卡槽，可以放下5到6.5寸的设备，iPhone6和Plus都完美适配。</p>
+
+<h4 id="">演示视频</h4>
+
+<video id="video" class="wrap" controls preload="none" poster="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/travel-seoul.jpg" type="video/mp4">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/seoul-travel-540p.mp4" media="screen and (min-width:700px)">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/seoul-travel-320p.mp4" media="screen and (max-width:699px)">  
+</video>
+
+<p>大部分都是通过iPhone6拍摄的旅行视频，画面稳定性相比以前自拍杆搭配Gopro或者小蚁的组合，好的可不是一丢丢。</p>
+
+<h4 id="">总结</h4>
+
+<p>相比更加常见的自拍杆，将近十倍乃至二十倍价格的三轴稳定器某种意义上属于一个小众的需求，如果你平时的旅游仅仅是拍照，那么三轴稳定器其实没什么必要。</p>
+
+<p>如果你像我这样，喜欢通过视频来记录自己的旅途，那么一个三轴稳定器，可以大大提高你的视频的质量。</p>
+
+<p>就如同Gopro等运动相机能带更广的视角、DJI带来更高更远的视角、三轴稳定器能带给你的，是更稳的视角和更多的后期编辑、创作空间。</p>]]></content:encoded></item><item><title><![CDATA[用iPhone能拍出什么样的旅行视频?]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/travel-seoul.jpg" class="lazy" alt="cover"></p>
+
+<video id="video" class="wrap" controls preload="none" poster="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/travel-seoul.jpg" type="video/mp4">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/seoul-travel-540p.mp4" media="screen and (min-width:700px)">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/seoul-travel-320p.mp4" media="screen and (max-width:699px)">  
+</video>
+
+<p>啊，终于把「遇见,首尔」系列的博客和视频都整完了。</p>
+
+<p>每次旅行，出行之前都要做一番行程安排，出行中要带着各种器材拍摄，回来之后还要花上一整天的时间选择、调整照片，如果有拍视频，还得剪辑，一场旅行下来，若要记录和分享出来，真的好不容易。</p>
+
+<p>这次首尔行，拍摄和剪辑了一个小短片「遇见,首尔」，可以访问优酷网或者Youtube在线观看。</p>
+
+<ul>
+<li><a href="http://v.youku.com/v_show/id_XMTUyMTE1ODA2NA==.html?from=s1.8-1-1.2">优酷网:【遇见,首尔】 Travel with Zoel</a></li>
+<li><a href="https://www.youtube.com/watch?v=YELKppMyCV8">Youtube:Travel with Zoel in Seoul - iPhone 6 &amp; Zhiyun Z1-Smooth Session </a></li>
+</ul>
+
+<p>当然，你也可以直接播放本页面的mp4视频，视频托管在又拍云的CDN上，速度应该还可以。</p>
+
+<h4 id="">拍摄器材</h4>
+
+<ul>
+<li>iPhone 6</li>
+<li>小蚁运动相机</li>
+<li>智云Z-Smooth C2三轴稳定器</li>
+</ul>
+
+<p>这一次出行，</p>]]></description><link>http://luolei.org/meet-in-seoul-a-iphone-travel-video/</link><guid isPermaLink="false">024962d3-2006-4b0d-b588-01bb31313fa6</guid><category><![CDATA[旅行]]></category><category><![CDATA[妹纸]]></category><category><![CDATA[行摄]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Mon, 04 Apr 2016 18:48:22 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k25.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k25.JPG" alt="用iPhone能拍出什么样的旅行视频?"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/travel-seoul.jpg" class="lazy" alt="用iPhone能拍出什么样的旅行视频?"></p>
+
+<video id="video" class="wrap" controls preload="none" poster="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/travel-seoul.jpg" type="video/mp4">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/seoul-travel-540p.mp4" media="screen and (min-width:700px)">  
+<source src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/seoul-travel-320p.mp4" media="screen and (max-width:699px)">  
+</video>
+
+<p>啊，终于把「遇见,首尔」系列的博客和视频都整完了。</p>
+
+<p>每次旅行，出行之前都要做一番行程安排，出行中要带着各种器材拍摄，回来之后还要花上一整天的时间选择、调整照片，如果有拍视频，还得剪辑，一场旅行下来，若要记录和分享出来，真的好不容易。</p>
+
+<p>这次首尔行，拍摄和剪辑了一个小短片「遇见,首尔」，可以访问优酷网或者Youtube在线观看。</p>
+
+<ul>
+<li><a href="http://v.youku.com/v_show/id_XMTUyMTE1ODA2NA==.html?from=s1.8-1-1.2">优酷网:【遇见,首尔】 Travel with Zoel</a></li>
+<li><a href="https://www.youtube.com/watch?v=YELKppMyCV8">Youtube:Travel with Zoel in Seoul - iPhone 6 &amp; Zhiyun Z1-Smooth Session </a></li>
+</ul>
+
+<p>当然，你也可以直接播放本页面的mp4视频，视频托管在又拍云的CDN上，速度应该还可以。</p>
+
+<h4 id="">拍摄器材</h4>
+
+<ul>
+<li>iPhone 6</li>
+<li>小蚁运动相机</li>
+<li>智云Z-Smooth C2三轴稳定器</li>
+</ul>
+
+<p>这一次出行，iPhone大部分时间都挂在三轴稳定器上，在这里不得不感慨iPhone的的确确是一个改变了世界的消费电子产品，如此小巧的设备，如此便捷的操作方式，也能做出效果不错的视频，大大降低了普通人记录、分享自己的生活、旅行的门槛，提高了创作质量。</p>
+
+<p>出去旅行的时候，摄影的工作主要还是交给专业相机，iPhone一般还就是发Instagram时候随手拍，但是拍摄视频，相比Gopro和小蚁等运动相机的操作不便，iPhone这种即开即用即时回放的设备，一下子让旅途摄像变得如此轻松。</p>
+
+<p>其他的就不多说了，大家可以看一下这次我们拍摄的视频。</p>
+
+<h4 id="">导航</h4>
+
+<ul>
+<li><a href="https://luolei.org/meet-in-seoul-a-iphone-travel-video/">遇见首尔:用iPhone能拍出什么样的旅行视频? </a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-1/">【遇见】首尔，Day 1:明洞、东大门</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-2/">【遇见】首尔，Day 2:首尔塔、梨花女子大学</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-3/">【遇见】首尔 Day 3:韩屋村、景福宫、三清洞</a></li>
+</ul>]]></content:encoded></item><item><title><![CDATA[【遇见】首尔 Day 3:韩屋村、景福宫、三清洞]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k17.JPG" class="lazy" alt="cover"></p>
+
+<p>第三天，首尔依旧好天气，今天的行程是去韩屋村。谷歌搜了一下关键字「韩屋村」，按照地图提示再下地铁，首尔地铁四通八达，还是很方便的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k37.JPG" class="lazy" alt="full-img"></p>
+
+<p>头两天顿顿烤肉，第一天晚上还去了酒店附近的小店吃了啤酒和炸鸡，今天这顿还是来点清淡点的，听说韩屋村附近的人参鸡不错。</p>
+
+<p>在南山脚下七拐八拐，走错了几次路，在前往韩屋村的路上，发现了一家小店，走进去，叫了两份鸡。一开始点菜的时候跟老板和老板娘语言不通，后来老板请来了后厨的青岛厨师，才成功用汉语点了菜，还顺便问了路。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k36.JPG" class="lazy" alt="full-img"></p>
+
+<p>喝完汤，走路前往附近的「韩屋村」，第一眼感觉是「咦，怎么还有一个景区的门呀？不说是韩屋村是居民区么？」，走进去一看，这哪里看都不像居民区啊，再搜了下地图，厄，怎么这是南村韩屋村，我们要去的应该是北村韩屋村，在山的另外一头，原来是个乌龙，走错了地。幸亏正牌韩屋村离这里也就两站地铁，赶紧转移。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k35.JPG" class="lazy" alt="full-img"></p>
+
+<p>出了地铁安国站，很明显的感觉就是到了旅游区，外国人一下子多了好多，沿着这条道路一直向里，就是我们要去的北村韩屋村了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k32.JPG" class="lazy" alt="full-img"></p>
+
+<p>韩屋村有着很强烈的日本和风建筑风格，传统风，地位有点类似北京的老胡同或者上海的里弄。来到一个民居的大门前，留个影。</p>]]></description><link>http://luolei.org/meet-in-seoul-day-3/</link><guid isPermaLink="false">f11c053b-59fe-47d1-9432-9b3b6ea80ef7</guid><category><![CDATA[首尔]]></category><category><![CDATA[理光GR]]></category><category><![CDATA[旅行]]></category><category><![CDATA[妹纸]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Mon, 04 Apr 2016 17:25:26 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k19.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k19.JPG" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k17.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>第三天，首尔依旧好天气，今天的行程是去韩屋村。谷歌搜了一下关键字「韩屋村」，按照地图提示再下地铁，首尔地铁四通八达，还是很方便的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k37.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>头两天顿顿烤肉，第一天晚上还去了酒店附近的小店吃了啤酒和炸鸡，今天这顿还是来点清淡点的，听说韩屋村附近的人参鸡不错。</p>
+
+<p>在南山脚下七拐八拐，走错了几次路，在前往韩屋村的路上，发现了一家小店，走进去，叫了两份鸡。一开始点菜的时候跟老板和老板娘语言不通，后来老板请来了后厨的青岛厨师，才成功用汉语点了菜，还顺便问了路。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k36.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>喝完汤，走路前往附近的「韩屋村」，第一眼感觉是「咦，怎么还有一个景区的门呀？不说是韩屋村是居民区么？」，走进去一看，这哪里看都不像居民区啊，再搜了下地图，厄，怎么这是南村韩屋村，我们要去的应该是北村韩屋村，在山的另外一头，原来是个乌龙，走错了地。幸亏正牌韩屋村离这里也就两站地铁，赶紧转移。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k35.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>出了地铁安国站，很明显的感觉就是到了旅游区，外国人一下子多了好多，沿着这条道路一直向里，就是我们要去的北村韩屋村了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k32.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>韩屋村有着很强烈的日本和风建筑风格，传统风，地位有点类似北京的老胡同或者上海的里弄。来到一个民居的大门前，留个影。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k33.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>一户人家的门前还贴着的门贴倒是汉字。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/K38.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>村里头有一个教堂，建筑物顶端立着十字架，韩国是亚洲最大的基督教国家，民众信教的比例很高。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k34.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>走进了一个小巷子，挺喜欢这种青砖木门的建筑，观察了一下居住在这里的居民，不少人家里都有车库，奔驰宝马不少，说不定就像帝都的某些胡同，这里也是韩国的一个高端住宅区呢。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k29.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>韩屋村依山而建，走在这个小村里面，道路也是有起伏。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k30.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>挺有意思的是，韩屋村也有不少彩色的建筑，有点青岛的味道<a href="https://luolei.org/meet-qingdao-love-and-kiss-day-2/">(参考:【遇见】青岛，DAY2)</a>。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k31.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>几个老人家坐在路边晒太阳，妹纸坐在台阶上，阳光好，心情好。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k5.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>差不多该离开了，在丁字路口留个影。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k28.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>走出韩屋村，看到了现代的总部，走在韩国的街上，见到的最多的车就是现代和起亚，以前网上有谣言说韩国人不买日本车，这几天特意观察了一下，只见到几辆英菲尼迪和一辆凯美瑞，相比而言，日本车的比例肯定不高。</p>
+
+<p>继续行行走走，不远处就是景福宫，既来之，就顺便去参观下了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k27.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>韩国国立民俗博物馆也在这里。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k26.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>从侧门走进了景福宫景区，旅行团倒也多了，但是总体而言游人并不多，体验良好。而且我们还遇到了一个乌龙，从侧门进去的时候，并没有人检票，我跟妹纸就跟着人流进去了，心里还纳闷咦怎么没卖票的地方。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k23.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>相比中国的古代宫殿，景福宫档次和规格还是差了不少，地面都是沙地，由于还没到花季，宫内也显得略冷清和荒芜。这个小湖中间就是「香远亭」。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k1.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>一直给妹纸拍拍拍，自己也该露个面了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k24.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>荒芜归荒芜，今天来这里拍照的年轻人也不少，不少韩国年轻情侣身着民族服饰在宫里拍照。让妹纸坐在草地上，也来一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k25.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>这块宫廷要放在中国，恐怕就是个王府吧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k22.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>背后这个水中央的建筑叫「庆会楼」，楼如其名，用途很明显了，表彰大会庆祝乱七八糟东东用的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k21.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>这个建筑是一个宫殿，景福宫有点模仿紫荆城，放在现代应该叫山寨吧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k20.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>游人稀少，最适合拍这种一人独享全景的照片了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k18.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k17.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>22毫米的广角，这种场景最合适不过了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k19.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>殿前的广场上，一对身着韩国传统服装在给朋友拍照。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k16.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>出了景福宫的正门光华门，韩国首脑住地青瓦台就在景福宫后面，美国、日本等国大使馆在门前，一个天主教堂也在门前，中国大使馆在左侧，毋庸置疑韩国的政治中心。</p>
+
+<p>这个铜像就是世宗大王，在<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)">李舜臣将军</a>铜像的后面，玩帝国时代的人应该知道朝鲜的特色兵种是「龟甲船」，李舜臣将军可以算是韩国的民族英雄，海军大奖，击败日本海军，成了救国英雄，可以说是无他则朝鲜亡，相比北边的「同胞」只给立金家人铜像，韩国人把这位李舜臣将军放在第一，还是很厚道的。前几年有一部<a href="https://movie.douban.com/subject/7065161/">《鸣梁海战》</a>的电影，大制作，推荐大家可以看看。</p>
+
+<p>走走逛逛又一个白天过去了，又到了觅食的时刻，手机搜了一下，决定去三清洞逛逛，同样是购物区，三清洞的小店相比而言更加有情调和个性。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k15.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>路边一家售卖玩偶的小店，好多鸡呀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k14.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>今天出门只穿了一件毛衣和薄衬衣，太阳落山后风冻人，又冷又累，跟妹纸去星巴克买了两杯咖啡，在国内是星享卡的金卡会员，本来还想能不能直接刷会员，店员说用不了只能作罢。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k11.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>喝完咖啡，妹纸还想去逛街，提着相机三脚架背着包一天下来，我实在是累了，遂把信用卡给了她，妹纸自个出去购物去了，我就一个人坐在星巴克休息了一个多小时。</p>
+
+<p>等妹纸回来了，准备回去酒店，已经夜晚八点多了，路上行人不多，亮灯的店铺很有味道。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k40.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>天气还是有点冷，等到了五月，出来逛街的人应该就多了吧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k12.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>妹纸在这家店给我买了一件衣服，立马就套在了身上，真是寒风中送温暖呀。结果买完了，才发现忘记退税了，妹纸就又跑回去重新拿退税的单。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k13.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>陪妹纸逛街，我也有新衣服穿了，开心。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k8.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>在韩国的最后一晚了，觉得有点没体验够，太过匆匆，还有好多地方没去呢。</p>
+
+<h2 id="day4">Day 4</h2>
+
+<p>第四天的内容不多，就也顺便写在Day3的行程中吧，也是这次在韩国的最后一天，晚上八点的飞机，收拾化妆完毕，等到12点才退房，订了下午4点半的机场大巴去机场，下午的购物时间也不多了，匆匆赶到明洞做最后的采购。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k9.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>恰逢今天是周日，一路上不少韩国店铺都关门了，这时才感受到基督教在这个国家的影响，周日是安息日，还真的生意都不做了！在明洞附近找到一家餐厅，点了一份猪手，肉太多了，幸亏有泡菜解腻，要不还真吃不完。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k10.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>吃完饭留给妹纸购物的时间不多了，妹纸在各个化妆品店穿行，十分钟就刷一次信用卡，我的手机震动不断，感受下我心情~~。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k7.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>下午四点，准时回到酒店，登上前往机场的大巴。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k6.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>约莫70分钟的行程，上车没多久，就睡着了，醒来就到了仁川机场，人还挺多的，赶紧值机，退税。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k5.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>外国人在韩购物，出境均能凭借专用的退税单自助退税，机场三楼几处退税机器前面都排满了人，妹纸在整理这几天购物的退税单。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k41.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>自助退税机十分方便，扫描护照，依次放入退税单，就能自动汇总金额，过了海关后，再在里面的机器领取现金或者支付宝退税均可。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k2.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>登机口附近的领取退税的窗口，如果在外面已经扫描过了，在这里直接刷护照就会像ATM机器那样直接退钱，也可以在旁边的窗口退税到支付宝，除此之外，中国游客还可以回到国内通过中国银行指定渠道退税，仁川机场内有详细的退税说明和指引，特别方便，只需要安排和预留好时间，还是可以拿回8%的购物额度的钱，差不多意味着打了9折呢，可不少。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k3.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>首尔最后一暼，就这样，跟首尔拜拜了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day3/k4.JPG" class="lazy" alt="【遇见】首尔 Day 3:韩屋村、景福宫、三清洞"></p>
+
+<p>之前跟向一北聊天谈到旅行，觉得旅行是一个成长的过程，只有走出去，见识不同的国家，结识不同的人，才能更加清晰地认识这个世界。</p>
+
+<p>这次韩国之行略显匆匆，出发前忘记订路由器，出发当天摔了镜头，忘记取钱和开手机漫游，中间虽然有不少小插曲，但是在「遇见首尔」的过程中，干净的街道，友好的民众，不错的美食，购物天堂，对韩国的印象大好，心情也大好。</p>
+
+<p>最后，问题来了：</p>
+
+<blockquote>
+  <p>下一站，我们会去哪里呢？</p>
+</blockquote>
+
+<h4 id="">导航</h4>
+
+<ul>
+<li><a href="https://luolei.org/meet-in-seoul-a-iphone-travel-video/">遇见首尔:用iPhone能拍出什么样的旅行视频? </a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-1/">【遇见】首尔 Day 1:明洞、东大门</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-2/">【遇见】首尔 Day 2:首尔塔、梨花女子大学</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-3/">【遇见】首尔 Day 3:韩屋村、景福宫、三清洞</a></li>
+</ul>]]></content:encoded></item><item><title><![CDATA[【遇见】首尔 Day 2:首尔塔、梨花女子大学]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k27.JPG" class="lazy" alt="cover"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k2.JPG" class="lazy" alt="full-img"></p>
+
+<p>第一天舟车劳顿，一觉睡到11点半才起床，洗漱化妆完毕，前往首尔塔，直接坐地铁二号线到达东大门附近一个站，拿出小蚁来个自拍。</p>
+
+<p>今天我们安排的是休闲游，首先当然是填饱肚子。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k33.JPG" class="lazy" alt="full-img"></p>
+
+<p>在路边一家餐厅，点了一份烤肉，第二顿吃烤肉和泡菜，还有点喜欢上韩国菜了，肉虽然多，但是不油，泡菜也能解腻。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k34.JPG" class="lazy" alt="full-img"></p>
+
+<p>韩国四日游下来，自己倒喜欢上吃泡菜了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k4.JPG" class="lazy" alt="full-img"></p>
+
+<p>不愧是名副其实的泡菜国，每一顿饭都送上一大堆泡菜。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k29.JPG" class="lazy" alt="full-img"></p>
+
+<p>吃饱饭，本来是想坐缆车登山南山顶的，但是谷歌了半天，看得满屏幕的韩文还是头疼，在路边拦下了一个欧巴，用谷歌翻译你一句我一句问路，也是没有找到，遂决定坐公交上去。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k30.JPG" class="lazy" alt="full-img"></p>
+
+<p>坐旅游2号环线上山，车上不少韩国的爷爷奶奶，妹纸在车上还顺便补了一个妆。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k31.JPG" class="lazy" alt="full-img"></p>
+
+<p>到达首尔塔咯，入春了，上山路上可以看到路边的花木也准备出换叶了，再过一段时间过来首尔肯定很漂亮。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k28.JPG" class="lazy" alt="full-img"></p>
+
+<p>从公交站向上走没多久，就是首尔塔入口，这个短坡还挺陡峭的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k27.JPG" class="lazy" alt="full-img"></p>
+
+<p>在山顶的观景台，给妹纸拍一张首尔都市景观，环顾一周，密密麻麻都是建筑，首尔也真不小呀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k3.JPG" class="lazy" alt="full-img"></p>
+
+<p>山顶远景，自拍杆升起来一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k26.JPG" class="lazy" alt="full-img"></p>
+
+<p>山顶广场旁边有一个中式的凉亭，柱子上也是各种乱涂乱画，中日韩英各种语言都有。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k23.JPG" class="lazy" alt="full-img"></p>
+
+<p>这一路给妹纸拍了不少视频，另外一侧是一个玻璃的观景台，今天首尔天气有点灰蒙蒙的。</p>]]></description><link>http://luolei.org/meet-in-seoul-day-2/</link><guid isPermaLink="false">3db868da-94a5-42fc-bc75-21c44fdf0b04</guid><category><![CDATA[首尔]]></category><category><![CDATA[旅行]]></category><category><![CDATA[理光GR]]></category><category><![CDATA[妹纸]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Mon, 04 Apr 2016 04:55:00 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k10.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k10.JPG" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k27.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k2.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>第一天舟车劳顿，一觉睡到11点半才起床，洗漱化妆完毕，前往首尔塔，直接坐地铁二号线到达东大门附近一个站，拿出小蚁来个自拍。</p>
+
+<p>今天我们安排的是休闲游，首先当然是填饱肚子。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k33.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>在路边一家餐厅，点了一份烤肉，第二顿吃烤肉和泡菜，还有点喜欢上韩国菜了，肉虽然多，但是不油，泡菜也能解腻。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k34.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>韩国四日游下来，自己倒喜欢上吃泡菜了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k4.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>不愧是名副其实的泡菜国，每一顿饭都送上一大堆泡菜。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k29.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>吃饱饭，本来是想坐缆车登山南山顶的，但是谷歌了半天，看得满屏幕的韩文还是头疼，在路边拦下了一个欧巴，用谷歌翻译你一句我一句问路，也是没有找到，遂决定坐公交上去。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k30.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>坐旅游2号环线上山，车上不少韩国的爷爷奶奶，妹纸在车上还顺便补了一个妆。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k31.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>到达首尔塔咯，入春了，上山路上可以看到路边的花木也准备出换叶了，再过一段时间过来首尔肯定很漂亮。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k28.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>从公交站向上走没多久，就是首尔塔入口，这个短坡还挺陡峭的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k27.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>在山顶的观景台，给妹纸拍一张首尔都市景观，环顾一周，密密麻麻都是建筑，首尔也真不小呀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k3.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>山顶远景，自拍杆升起来一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k26.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>山顶广场旁边有一个中式的凉亭，柱子上也是各种乱涂乱画，中日韩英各种语言都有。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k23.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>这一路给妹纸拍了不少视频，另外一侧是一个玻璃的观景台，今天首尔天气有点灰蒙蒙的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k24.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>观景台最上侧的栏杆上，是世界各地的情侣留下的情侣锁，满满的把平台都占满了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k25.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>情侣锁五颜六色，像一条斑斓的彩带。上首尔塔上面还另外需要门票，跟妹纸对登顶没什么兴趣，山顶风大，在南山山顶广场再逗留了一小会，就下山了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k7.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>找好一个角度，下山前再来一张合影。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k22.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>遇到一群幼儿园的小朋友在老师的带领下参观，在这里再说个观感，首尔几天下来，一个感觉就是绝大多数人的衣服的质量，都很明显感觉比较好，不会显得廉价，哪怕是路边的小贩甚至清洁工，衣服的质量至少不会给人那种10块钱的地摊货的感觉。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k21.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>坐公交下山，路过一片卖相机的地方，想去看下有没有理光的镜头转接头卖，就下车了，原来这块就是首尔的南大门，众多小商品零售和批发。录过一个卖零食的地方，妹纸买了两包鱿鱼丝和奇异果干，总共8000韩币约40元。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k20.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>在南大门一条借刀的门口，见到一个卖煎饼的摊位排着队，闻着味道好香，一份才卖1000韩币才五块多人民币，妹纸想吃也开始排队了，大家可以注意排队的一个小细节，由于小摊是在人行道旁边，为了不阻拦行人，第二位排队的跟第一位留下了两米多宽的间隙，不阻碍交通，在路边的公交站，也能看到有排队间隙指示标志，这种细节，也是一个文明国家的小细节吧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k17.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>煎饼包着蔬菜和糯米馅，热乎乎咬下去，真的是很好吃，怪不得这么多人排队。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k3.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>谷歌地图查了一下路线，乘车前往梨花女子大学，梨大也算是首尔旅行的一个景点了，梨大是韩国首尔历史最悠久的大学之一，建校于1886年，是韩国第一所女子大学，校园十分漂亮，也有不少游人。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k18.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>里面的一座礼堂十分有西洋特色，这个时节游人不多，下午四点，学生也没有下课，阳光适合，给妹纸低位拍一张仰拍。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k19.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>妹纸也来个西洋风。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k14.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>走下台阶，来到广场，梨大有自己的博物馆，话说我们暨南大学也有自己的博物馆，都是一百多年的学校了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k36.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>下沉广场这个建筑就是梨大的图书馆，也算是向下扩容，挺有特色的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k15.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>出动三脚架，来一个抱抱照。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/yi/k6.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>这几天，左手理光，右手iPhone，小蚁四天下来才拍了二十多张照片，开机和操作麻烦，还是很容易吃灰的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k11.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>继续探索校园，随着太阳逐渐下山，校园也开始笼罩在一片暖光之中，初春的校园，花是含苞待放，过多两个星期就是首尔的樱花季，到时候来应该就更美了，当然，人肯定也更多了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k12.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>走进一片满是落叶的小树林，让妹纸坐在台阶上，拍下一张「大约在秋季」。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k13.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>魔法时刻，应该是摄影师最喜欢的光了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k9.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>校园的公告板上张贴着各种海报，也有招聘的告示，又是一批大学生要毕业的时候了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k16.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>五点多，学生们陆续下课了，每个大学生基本都化妆，不像学生，说到这里，之前听人评论说中国和美国的大学生有点像，都是不修边幅，把心思花在学习上比较多。至今为止，韩国还没有获得一个自然科学类的诺贝尔奖，不知道这其中有没有点什么关联呢。</p>
+
+<p>时间差不多了，出去觅食了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k8.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>梨大周边是一片繁华的商业区，有各式各样的小店，吃喝买齐全了，落日在街道的另一头，真美。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k10.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>继续走了一段时间，前往<strong>梨大新村</strong>，也是一个购物美食集中地，在路边见到有个欧巴在弹钢琴，身边却没有Tip Box，座位上放着公文包，难道是传说中的路人甲。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k5.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>跳舞的少女团体，每个少女都有一个明星梦吧。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k6.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>广场上有一个红色的大镜子，在这里来张合照。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k7.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>继续走走逛逛，发现这里的饭点真的是太多了，韩餐，日料，西餐各式各样的美食都有，绕啊绕，绕进了一个小巷。在这里倒发现了八色烤肉，还挺多人的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k35.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>慢慢一桌，一大盆烤肉和一锅火锅，总共花了36000韩币，人均100人民币。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day2/k4.JPG" class="lazy" alt="【遇见】首尔 Day 2:首尔塔、梨花女子大学"></p>
+
+<p>首尔第二天，又上山又逛街的，讲真挺累的，眼看时间不早了，乘坐地铁返回江南的酒店。在地铁站还见到了Line Friends Store，各种纪念品，可惜国内Line被封了。</p>
+
+<p>最后，讲一个血痛的教训:</p>
+
+<blockquote>
+  <p>出门旅行，一定要记得每天备份照片。</p>
+</blockquote>
+
+<p>正是第二天回酒店太困了直接就睡着了，没有备份理光SD卡里的相片，结果第三天，由于卡读写错误提示要格式化，硬是通过数据找回软件才找回今天的照片，还是有2、30张照片还是出现了损坏和丢失的情况。</p>
+
+<h4 id="">导航</h4>
+
+<ul>
+<li><a href="https://luolei.org/meet-in-seoul-a-iphone-travel-video/">遇见首尔:用iPhone能拍出什么样的旅行视频? </a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-1/">【遇见】首尔 Day 1:明洞、东大门</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-2/">【遇见】首尔 Day 2:首尔塔、梨花女子大学</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-3/">【遇见】首尔 Day 3:韩屋村、景福宫、三清洞</a></li>
+</ul>]]></content:encoded></item><item><title><![CDATA[【遇见】首尔 Day 1:明洞、东大门]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k28.JPG" class="lazy" alt="cover"></p>
+
+<p>忙了近两个月的工作，三月24日，带着妹纸去了一趟首尔，很不错的体验，这一次，我们来「遇见，首尔」。</p>
+
+<h4 id="">准备</h4>
+
+<p>随着中国护照含金量的上升，加上中国游客的强大消费力，不少国家都放宽了对中国游客的签证要求，日韩美陆续都推出或者降低多年多签的签证。</p>
+
+<p>韩国签证算是最好办的之一，虽然我人在上海，按理应该是在上海领区办理，但是淘宝的时候搜到广州领区，深圳户口可以走简便流程，只需要户口本复印件和护照就可以办理了，于是直接顺丰把护照和户口本复印件快递给广州的一家旅行社，一周就顺利出签并且顺利拿到护照，妹纸是在上海领区办的，还额外提供了在职证明、银行流水、社保证明等。</p>
+
+<p>这次自由行是去年双十一的时候在阿里旅行上预订的套餐，包含上海往返首尔的来回机票加3晚首尔洲际酒店，总共2K3人民币一人，两个人共花费了4K6，加上签证两人共了约5K2。一个人走的话还挺值的，两个人由于房间共享，日常出行往返机票加上住宿（150美元每晚），其实价格也差不多。</p>
+
+<h4 id="">装备</h4>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/k0.jpg" class="lazy" alt="full-img"></p>
+
+<p>这次也带了不少装备，尤其是带了不少随身的数码装备，下面这三个基本就是旅行的摄影设备了。</p>
+
+<ul>
+<li>1.理光GR:老朋友了</li>
+<li>2.理光GW-3 22mm镜头:新入的广角，这次全程基本都是用22的镜头拍摄。</li>
+<li>3.智云Z1-Smooth C-2</li></ul>]]></description><link>http://luolei.org/meet-in-seoul-day-1/</link><guid isPermaLink="false">2c82a3df-cf1f-415f-9505-986ee9753ed8</guid><category><![CDATA[旅行]]></category><category><![CDATA[摄影]]></category><category><![CDATA[首尔]]></category><category><![CDATA[韩国]]></category><category><![CDATA[理光GR]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sun, 03 Apr 2016 22:00:24 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k7.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k7.JPG" alt="【遇见】首尔 Day 1:明洞、东大门"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k28.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>忙了近两个月的工作，三月24日，带着妹纸去了一趟首尔，很不错的体验，这一次，我们来「遇见，首尔」。</p>
+
+<h4 id="">准备</h4>
+
+<p>随着中国护照含金量的上升，加上中国游客的强大消费力，不少国家都放宽了对中国游客的签证要求，日韩美陆续都推出或者降低多年多签的签证。</p>
+
+<p>韩国签证算是最好办的之一，虽然我人在上海，按理应该是在上海领区办理，但是淘宝的时候搜到广州领区，深圳户口可以走简便流程，只需要户口本复印件和护照就可以办理了，于是直接顺丰把护照和户口本复印件快递给广州的一家旅行社，一周就顺利出签并且顺利拿到护照，妹纸是在上海领区办的，还额外提供了在职证明、银行流水、社保证明等。</p>
+
+<p>这次自由行是去年双十一的时候在阿里旅行上预订的套餐，包含上海往返首尔的来回机票加3晚首尔洲际酒店，总共2K3人民币一人，两个人共花费了4K6，加上签证两人共了约5K2。一个人走的话还挺值的，两个人由于房间共享，日常出行往返机票加上住宿（150美元每晚），其实价格也差不多。</p>
+
+<h4 id="">装备</h4>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/k0.jpg" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>这次也带了不少装备，尤其是带了不少随身的数码装备，下面这三个基本就是旅行的摄影设备了。</p>
+
+<ul>
+<li>1.理光GR:老朋友了</li>
+<li>2.理光GW-3 22mm镜头:新入的广角，这次全程基本都是用22的镜头拍摄。</li>
+<li>3.智云Z1-Smooth C-2 三轴稳定器:配合iPhone拍摄视频用，最后剪辑出的视频效果不错。</li>
+</ul>
+
+<p>3月24日，早上8点半的航班，6点钟起床叫上Uber，直奔浦东机场。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k2.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>上海天气不错，好久没见过这么早晨的太阳了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k6.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>这次乘坐的是韩亚航空的航班，出票之后，想到去年韩亚航空在美国的空难，心里还有点小啾啾。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k16.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>来得虽早，排队的人也已经不少了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k32.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>值机完毕，把大的行李箱托运，这次的航班人很多，都没跟妹纸坐在一起。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k33.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>早晨八点的阳光洒进候机大厅，在窗边给妹纸拍了一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k34.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>这次出行，还给理光GR顺便陪了一个22mm的广角镜头，在登机前有个小插曲，妹纸一不小心把相机给摔了，镜头转接环摔坏，我心里那个无语啊，想着这镜头是真出师未捷身先死。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k7.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>经过两个小时的飞行，约莫上午一点半（首尔时间比北京时间早一个小时），顺利抵达首尔仁川国际机场，仁川机场位于首尔西侧的永宗─龙游岛，是全球十大最佳机场之一。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k27.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>酒店提供了接机服务，这次出行略匆忙，没有在国内买路由器也没有取现金，出了航站楼后，直接在机场大厅LGU租了一个随身路由，<strong>6500</strong>韩元一天，四天共花了<strong>2200韩元</strong>，约合人民币123元，国内淘宝直接租的话大概只需要30-50元。</p>
+
+<p>路由器害提供了一个便携包，里面装着说明书和一个充电宝，打开后，连接路由器的WIFI热点就可以上网了，这四天实际体验下来，在城里和地铁都有4G信号，速度还是挺不错的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k15.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>乘坐接机大巴前往位于江南（就是欧巴Gangnam Style）的酒店，机场高速旁边，太阳旗迎风飘扬。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k30.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>约50分钟车程，抵达首尔外围，韩文真的是什么都看不懂。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k25.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>继续开往市区，这条江就是大名鼎鼎的汉江，韩国的母亲河。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k36.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>离市区越来越近了，江边的建筑也变得多起来。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k18.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>远远的看首尔市区，碧水蓝天，好歹也是一个国际大都市。</p>
+
+<p>这次入住的是首尔洲际，五星级的酒店，一楼是大堂和咖啡茶座，还有身作韩国传统服侍的接待，工作人员十分热情，拿信用卡Check In，全程英文交流还是很容易的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k17.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>从酒店走了约3分钟达到地铁「三成」站，在街角的广场发现了一个镜面圆蛋，是2010年G20的纪念物。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k13.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>在地铁的自动售卖机购买T-money公交卡，可以在全市的地铁和公交使用，卡本身5000韩币，然后另外还需充值，韩国四天刚好每人花了20000韩币，约合人民币110元。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k5.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>首尔的地铁站跟国内上海、深圳和广州的都有点像。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k10.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>虽说今天是星期四工作日，但由于不是上下班高峰，地铁人也不多，三成有点像上海的陆家嘴，高新区，各种高楼大厦。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k1.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>看到这密密麻麻的韩文的时候，不免还是头疼，由于首尔地铁线路众多，加上没有亮灯到站提示，对于我们这种文盲状态的人来说，只能看英文注释和听报站的广播。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k28.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>首先前往的是著名的购物区明洞，有点像上海的南京西路，但是价格相比而言要便宜得不是一点点。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k3.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>熙熙攘攘不少人，能听到不少普通话、粤语，也见到不少东南亚的游客。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k24.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>路中央有不少小贩售卖小吃和零食水果，价格从1500韩币到5000韩币不等，约莫10元到30元人民币，不便宜，也不算太贵。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k29.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>一大早起来，在飞机上吃的也没多少，这个时间也是有点饿了，在街边买了个烤奶酪，第一次吃，味道不错。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k20.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>有吃的，好开心呢。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k38.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>奶酪刚刚下肚，这肚子叫得更响了，又买了份铁板鸡，是鸡肉和蔬菜混炒，味道也不错。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k14.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>路边还有这么一大串串的不知道什么东西，看着有点腻，就没买了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k31.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>看攻略说明洞换人民币汇率会高一点，找到一家店汇率是177.5:1（意思是100人民币可换17751元韩币），感觉还行，虽说不少店铺都支持刷卡甚至支付宝，可是想着万一去个小店买东西没现金还是不方便，就直接换了900人民币。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k8.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>本来说是最后一天再购物，这妹纸看到满街化妆品，这才来第一天，就开始剁手买买买了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k23.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>来到明洞的入口，趁着路中央没人，来一张照片。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k21.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>从明洞出来，乘地铁前往东大门，这里的艺术中心刚好有首尔时装周的活动，也是顺路凑了个热闹。艺术中心是两个很大的球形建筑连体，远远地看还是很有特色的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k11.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>有不少潮人出没，作为亚洲潮流和时尚输出中心，韩国的天然美女比例可能不多，但是感觉而言，每个人都会打扮，给人一种生活得很精致的感觉。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k12.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>也给妹纸拍一张。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k4.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>我拿着三轴稳定器，一路拍摄妹纸。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k40.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>入夜了，肚子又咕咕叫了，走进一条小街，找到一家路边的餐厅，开始了在首尔的第一顿正餐。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k26.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>泡菜、烤肉，韩国特色。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k37.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>这个就是首尔这四天乘坐公交使用的T-moeny卡。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k19.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>吃完饭，妹纸又去了路边一家店买化妆品，大多店都支持退税。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k35.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>暖黄色的灯光下，来一张自拍自己自拍。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/04/seoul/day1/k22.JPG" class="lazy" alt="【遇见】首尔 Day 1:明洞、东大门"></p>
+
+<p>北方初春的风吹起来也怪冷的，在街角拍一张街景，搭地铁回了酒店，奔波劳累，第一天还是早点休息，就这样，结束我们在首尔的第一天的行程。</p>
+
+<p>明天见。</p>
+
+<h4 id="">导航</h4>
+
+<ul>
+<li><a href="https://luolei.org/meet-in-seoul-a-iphone-travel-video/">遇见首尔:用iPhone能拍出什么样的旅行视频? </a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-1/">【遇见】首尔 Day 1:明洞、东大门</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-2/">【遇见】首尔 Day 2:首尔塔、梨花女子大学</a></li>
+<li><a href="https://luolei.org/meet-in-seoul-day-3/">【遇见】首尔 Day 3:韩屋村、景福宫、三清洞</a></li>
+</ul>]]></content:encoded></item><item><title><![CDATA[便宜开箱:品胜TS-D199充电宝]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter1.JPG" class="lazy" alt="cover"> <br>
+上周去宝山上课，带的小米充电宝一下子就没电了，想着这才一年寿命不到，平时基本都没怎么用，这质量实在是不敢恭维呀。</p>
+
+<p>虽然平时上班往返家和公司，周末也少出去逛，充电宝基本没有啥使用场景，但是万一要出个远门，这iPhone和安卓一天玩下来，4G网络下基本肯定是撑不住的，还是得备一个充电宝，遂上网搜了一下，刚好看到<a href="http://www.smzdm.com/p/6029467/">张大妈</a>发了品胜这个LED电库二代的预售信息，看了下外观和价格还可以，就下单买了。</p>
+
+<p>交了9块钱定金，28号付了余下的90元尾款，第二天就从深圳发货了，品胜官方旗舰店，走的是申通快递，第三天送到了上海公司，速度还是很不错的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter2.JPG" class="lazy" alt="full-img"></p>
+
+<p>包装还挺大的，2W毫安的容量，体积在这里。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter3.JPG" class="lazy" alt="full-img"></p>
+
+<p>拆开后就是充电宝机体和附送的USB线。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter4.JPG" class="lazy" alt="full-img"></p>
+
+<p>磨砂外壳，质感还行。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter5.JPG" class="lazy" alt="full-img"></p>
+
+<p>背面写着电池的规格信息。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter6.JPG" class="lazy" alt="full-img"></p>
+
+<p>这个充电宝一个亮点就是有个LCD的显示屏，可是显示当前剩余电量和充电信息。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter7.JPG" class="lazy" alt="full-img"></p>
+
+<p>顶部有3个孔，分别是充电，2安的USB口和1安的USB口。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter8.JPG" class="lazy" alt="full-img"></p>
+
+<p>充电的时候会提示USB口使用状况。</p>
+
+<h4 id="">评价</h4>
+
+<p>对于100不到的东西，就当成消耗品吧，外观还行，品胜是做电池的老厂商了，应该信得过。</p>]]></description><link>http://luolei.org/lcd-power-station-pisen-ts-d199/</link><guid isPermaLink="false">0bf22689-7e17-415e-8303-ad4c7b396c9b</guid><category><![CDATA[数码]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Wed, 02 Mar 2016 14:07:14 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter1.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter1.JPG" alt="便宜开箱:品胜TS-D199充电宝"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter1.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"> <br>
+上周去宝山上课，带的小米充电宝一下子就没电了，想着这才一年寿命不到，平时基本都没怎么用，这质量实在是不敢恭维呀。</p>
+
+<p>虽然平时上班往返家和公司，周末也少出去逛，充电宝基本没有啥使用场景，但是万一要出个远门，这iPhone和安卓一天玩下来，4G网络下基本肯定是撑不住的，还是得备一个充电宝，遂上网搜了一下，刚好看到<a href="http://www.smzdm.com/p/6029467/">张大妈</a>发了品胜这个LED电库二代的预售信息，看了下外观和价格还可以，就下单买了。</p>
+
+<p>交了9块钱定金，28号付了余下的90元尾款，第二天就从深圳发货了，品胜官方旗舰店，走的是申通快递，第三天送到了上海公司，速度还是很不错的。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter2.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>包装还挺大的，2W毫安的容量，体积在这里。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter3.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>拆开后就是充电宝机体和附送的USB线。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter4.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>磨砂外壳，质感还行。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter5.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>背面写着电池的规格信息。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter6.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>这个充电宝一个亮点就是有个LCD的显示屏，可是显示当前剩余电量和充电信息。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter7.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>顶部有3个孔，分别是充电，2安的USB口和1安的USB口。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/03/batter8.JPG" class="lazy" alt="便宜开箱:品胜TS-D199充电宝"></p>
+
+<p>充电的时候会提示USB口使用状况。</p>
+
+<h4 id="">评价</h4>
+
+<p>对于100不到的东西，就当成消耗品吧，外观还行，品胜是做电池的老厂商了，应该信得过。</p>]]></content:encoded></item><item><title><![CDATA[Macbook Air换电池教程]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b1.JPG" class="lazy" alt="cover"></p>
+
+<p>我的第一台Macbook Air购于2012年7月，到现在已经三岁半了，也是到年头的机器。i5的CPU，4G内存，128G的SSD，对于日常上网、轻度开发来说，还是完全够用的，就是随着电池循环增多，电池的寿命也逐渐减少，从最开始的五六个小时到一个多小时，也只够开一个会议用了。</p>
+
+<p>过去这段时间一直把Air丢在家里的客厅，上周一开机发现空电了，插上电源后发现一会就充满100%，可是一拔掉电源又立马掉电，心想应该是挂了，三年半，苹果电池的质量也算是良心了，寿终正寝。</p>
+
+<p>笔记本闲着也是浪费，走官方的渠道保修的话肯定价格不菲，于是上淘宝搜<code>macbook air 2012</code> 电池，找到匹配我的型号的电源，直接手机下单买了，品牌为绿巨能，价格<strong>￥253元</strong>，具体的型号可以看图。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b6.JPG" class="lazy" alt="full-img"></p>
+
+<p>下面就说下简单的拆机换电池流程，供有需要的朋友参考。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b2.JPG" class="lazy" alt="full-img"></p>
+
+<p>首先请准备好适合苹果笔记本的螺丝刀，苹果的螺丝刀比较特殊，是专门的梅花螺丝，我家里备了一套<a href="https://s.taobao.com/search?initiative_id=tbindexz_20160228&amp;ie=utf8&amp;spm=a21bo.7724922.8452-taobao-item.2&amp;sourceId=tb.index&amp;search_type=item&amp;ssid=s5-e&amp;commend=all&amp;imgfile=&amp;q=%E5%8D%97%E6%97%97&amp;suggest=0_1&amp;_input_charset=utf-8&amp;wq=%E5%8D%97qi&amp;suggest_query=%E5%8D%97qi&amp;source=suggest">南旗</a>的螺丝套件，大概100多，比起那些二三十的质量好不少（便宜的螺丝头钢材不好，总是磨损，过去买的几套都遇到了这个问题）。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b3.JPG" class="lazy" alt="full-img"></p>
+
+<p>南旗的螺丝刀是金属，拿在手上比较有分量，</p>]]></description><link>http://luolei.org/macbook-battery-replacement-tutorial-diy/</link><guid isPermaLink="false">b31c76b5-6523-484e-92ec-a1c61916a569</guid><category><![CDATA[数码]]></category><category><![CDATA[硬件]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sun, 28 Feb 2016 06:43:31 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b10.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b10.JPG" alt="Macbook Air换电池教程"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b1.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>我的第一台Macbook Air购于2012年7月，到现在已经三岁半了，也是到年头的机器。i5的CPU，4G内存，128G的SSD，对于日常上网、轻度开发来说，还是完全够用的，就是随着电池循环增多，电池的寿命也逐渐减少，从最开始的五六个小时到一个多小时，也只够开一个会议用了。</p>
+
+<p>过去这段时间一直把Air丢在家里的客厅，上周一开机发现空电了，插上电源后发现一会就充满100%，可是一拔掉电源又立马掉电，心想应该是挂了，三年半，苹果电池的质量也算是良心了，寿终正寝。</p>
+
+<p>笔记本闲着也是浪费，走官方的渠道保修的话肯定价格不菲，于是上淘宝搜<code>macbook air 2012</code> 电池，找到匹配我的型号的电源，直接手机下单买了，品牌为绿巨能，价格<strong>￥253元</strong>，具体的型号可以看图。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b6.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>下面就说下简单的拆机换电池流程，供有需要的朋友参考。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b2.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>首先请准备好适合苹果笔记本的螺丝刀，苹果的螺丝刀比较特殊，是专门的梅花螺丝，我家里备了一套<a href="https://s.taobao.com/search?initiative_id=tbindexz_20160228&amp;ie=utf8&amp;spm=a21bo.7724922.8452-taobao-item.2&amp;sourceId=tb.index&amp;search_type=item&amp;ssid=s5-e&amp;commend=all&amp;imgfile=&amp;q=%E5%8D%97%E6%97%97&amp;suggest=0_1&amp;_input_charset=utf-8&amp;wq=%E5%8D%97qi&amp;suggest_query=%E5%8D%97qi&amp;source=suggest">南旗</a>的螺丝套件，大概100多，比起那些二三十的质量好不少（便宜的螺丝头钢材不好，总是磨损，过去买的几套都遇到了这个问题）。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b3.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>南旗的螺丝刀是金属，拿在手上比较有分量，手感不错。</p>
+
+<p>这次购买的电池也附送了简易的螺丝刀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b7.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b1.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>这就是今天换电池的全家福，中间的就是陪伴了我将近四年的Macbook Air。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b4.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>首先拆下Macbook背面边角的所有螺丝，需要用到专门的螺丝刀。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b5.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>全部拆下后把小螺丝放到专门的位置，建议放在小盒子里面以免不小心遗失。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b8.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>轻轻地撬动掰开背后的金属背壳，Macbook的内部就一览无余了，上方是主板，下面这么一大块黑色的就是电池了，多亏了Macbook精良的工艺，这都三年半的老机器了，里面的可以说还是很干净的，可以拿小刷子清理下灰尘。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b9.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>这里是Macbook的散热器，换电池不需要拆散热器，若你觉得脏，也可以参考螺丝的位置，酌情拆装清洁。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b10.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>科技之美，各种芯片。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b11.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>拆装电池需要用到另外一种梅花螺丝，找到电池周围固定的几个螺丝位置，逐一拆下即可。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b12.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b13.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>可以看到由于有了一点的年数，电池周边固定的位置的塑料已经老化变脆碎裂了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b14.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>轻轻地扣掉电池与主板之间连接的<code>供电排线</code>，顺着排线方向轻轻一拉就可以了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b15.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>这个时候，我们就成功地把电池拆下了，顺便把电池下方也清洁一下，注意电脑内部最好不要用液体清洁以免短路，直接拿小吹气球和干的布或者纸巾擦擦就好。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b17.JPG" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>最后，按照原来电池安装的位置，把新的电池排线插上，依次把螺丝上好。固定好之后可以开机检查一下是否正常，如果能正常开机通电，最后把后壳再安装好就可以了。</p>
+
+<h4 id="">总结</h4>
+
+<p>相比清洁风扇，换Macbook电池可以算是很简单了，只需要合适的工具，注意不要丢失螺丝，不要乱碰主板上的东西就可以了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/macbook/b18.png" class="lazy" alt="Macbook Air换电池教程"></p>
+
+<p>打开电脑，看下电池的信息，这下应该是正常了。</p>
+
+<h4 id="update">Update</h4>
+
+<ul>
+<li>2016.2.29 今天不插电使用DP外接2K显示器使用Macbook Air三个小时，从100%的电量到40%的电量，中间浏览网页+看Youtbe视频+Code，续航时间可能是可以达到4小时以上了，纯网页浏览的话应该可以到6小时，绿巨能这个电池的质量还不错，过段时间再看下循环多次之后健康状态咋样。</li>
+</ul>]]></content:encoded></item><item><title><![CDATA[成为什么样的人？]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/2016v.jpg" class="lazy" alt="cover"></p>
+
+<p>今天看了一个TED的一个视频<a href="https://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks?language=zh-tw#t-1071333">古樂朋(Nicholas Christakis): 人際關係的潛在影響</a>，主讲人通过长时间的研究和数据积累，用可视化的方式，讲到了一个人的社交网络对其本身的影响。</p>
+
+<p>抽离出分享中讲到的几个点，大家应该能有一定的启发。</p>
+
+<ul>
+<li>肥胖是会传染的，如果你周围有肥胖的朋友，那么你也肥胖的概率会上升46%。</li>
+<li>情绪是会在社交网络传染的，寡妇效应，老公死了，老婆在接下来一年的死亡率也大大上升，周围的朋友也会有更多的抑郁情绪。</li>
+<li>朋友网络之间联结更多，朋友圈的质量相对也会更高，幸福感更强。</li>
+</ul>
+
+<p>具体的观点和述大家可以看下上面的视频，18分钟也不长，最近又读了几本书《与机器赛跑》、《浅薄》，发现不少这类书，尤其是外国人写的这种书，都有点PPT的味道（非贬义），通过大量的案例、数据来支持几个核心的论点，理解起来也不难。</p>
+
+<p>之所以说到这个话题，也是自己最近的一些思考，就是关于「成为什么样的人」和「如何成为那种人」。</p>
+
+<h4 id="0">0.从知乎谈起</h4>
+
+<p>时不时在知乎看到<a href="https://www.zhihu.com/search?q=%E5%B9%B4%E8%96%AA&amp;type=question">年薪XX万的人都在干什么？</a>之类的文章，这类问题常常也容易成为Timeline中的老面孔，从这些问题的关注者数量来看，大多数人还是十分渴望自己也成为这种问题中「成功者」的一员。</p>
+
+<p>励志鸡汤，</p>]]></description><link>http://luolei.org/being-who/</link><guid isPermaLink="false">2b82cfb3-ad20-42a8-ae38-c5684c3d9e6e</guid><category><![CDATA[罗磊啰嗦]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sat, 20 Feb 2016 07:27:23 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/2016v.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/02/2016v.jpg" alt="成为什么样的人？"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/02/2016v.jpg" class="lazy" alt="成为什么样的人？"></p>
+
+<p>今天看了一个TED的一个视频<a href="https://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks?language=zh-tw#t-1071333">古樂朋(Nicholas Christakis): 人際關係的潛在影響</a>，主讲人通过长时间的研究和数据积累，用可视化的方式，讲到了一个人的社交网络对其本身的影响。</p>
+
+<p>抽离出分享中讲到的几个点，大家应该能有一定的启发。</p>
+
+<ul>
+<li>肥胖是会传染的，如果你周围有肥胖的朋友，那么你也肥胖的概率会上升46%。</li>
+<li>情绪是会在社交网络传染的，寡妇效应，老公死了，老婆在接下来一年的死亡率也大大上升，周围的朋友也会有更多的抑郁情绪。</li>
+<li>朋友网络之间联结更多，朋友圈的质量相对也会更高，幸福感更强。</li>
+</ul>
+
+<p>具体的观点和述大家可以看下上面的视频，18分钟也不长，最近又读了几本书《与机器赛跑》、《浅薄》，发现不少这类书，尤其是外国人写的这种书，都有点PPT的味道（非贬义），通过大量的案例、数据来支持几个核心的论点，理解起来也不难。</p>
+
+<p>之所以说到这个话题，也是自己最近的一些思考，就是关于「成为什么样的人」和「如何成为那种人」。</p>
+
+<h4 id="0">0.从知乎谈起</h4>
+
+<p>时不时在知乎看到<a href="https://www.zhihu.com/search?q=%E5%B9%B4%E8%96%AA&amp;type=question">年薪XX万的人都在干什么？</a>之类的文章，这类问题常常也容易成为Timeline中的老面孔，从这些问题的关注者数量来看，大多数人还是十分渴望自己也成为这种问题中「成功者」的一员。</p>
+
+<p>励志鸡汤，成功秘诀，无论中外，都是年轻人所钟意的话题，关注一大堆微信公众号、知乎专栏和各种自媒体，热衷于TED等等，表现出来的都是对信息的填充式甚至焦虑式的渴望。</p>
+
+<p>上面这段倒不是黑话，看下国外的Quora，那种<a href="https://www.quora.com/topic/Early-20s-age">What things does a 20 year old need to know</a>或者<a href="https://www.quora.com/What-can-I-learn-know-right-now-in-10-minutes-that-will-be-useful-for-the-rest-of-my-life">What can I learn/know right now in 10 minutes that will be useful for the rest of my life?</a>的<a href="https://www.quora.com/topic/Self-Improvement">Self-Improvement</a>励志、个人管理之类的话题也是热门，可以看出：渴望成功、进步，Live a better life是普罗大众的共同愿望。</p>
+
+<p>以前还时不时会点进去看看其他人的成功经验，看得多了，自己倒也琢磨出些门道，发现翻来覆去其实也就是核心那么几点，再后来就看得少了。</p>
+
+<p>对于我来说，对于「成功」的世界观或者「成功观」大概就是下面观点:</p>
+
+<blockquote>
+  <p>成功是偶然的，平凡才是大概率事件</p>
+</blockquote>
+
+<p>经历过高考的大多数人，对于「吃的苦上苦，方为人上人」，「今日寒窗苦读，必定有我」之类的口号必不陌生，对于还在读书的小朋友来说，吃苦和努力，还是很有益的，对于社会人和市场人来说，获得世俗意义上的成功，尤其是在商业、市场上的成功，基本就是看运气+概率了。</p>
+
+<p>大学学过的最有用的两门课就是统计学和概率论，统计学中有一个相关性研究，这么多人努力地学习，考大学，最终博的都是一个「大概率」的收益，就是，理论上和统计上来说，「上了大学的比只上过高中的收入有XX%概率收入更高」，硬是要拿初中没毕业同学当了土豪老板年入千万这种「小概率」事件来比，就不免有点耍流氓了。</p>
+
+<p>最后我的看法就是「努力了不一定成功」，至于后面那句「不努力就肯定不会成功」倒真不同意，这个真的是看命。至于努力不努力，是个人追求，都是在追求自己成为那个概率区间中的人。</p>
+
+<p>成不成看天，但是至于想不想成，和如何成，就真的是看人了。这两点，也是我自己经常思索的问题。</p>
+
+<p>有时候，人太想成一件事情，难免会带来心理上的焦虑。我是一个挺好强的人，挺想做成一些事的人，有了这个念想，加上自己长期以来对于「时间即价值」的观念，我对于时间有一种很明显的吝啬。因此，我基本每天都会给自己的空闲时间安排事情做：不管是读书还是锻炼，也都坚持了好几年。</p>
+
+<p>从我自己的理解来说：读书是一种对大脑智力和知识的投资，锻炼和健身则是对自己精力的健康的投资，这两种都算得上是一种不那么急功近利的长线操作。</p>
+
+<p>思维指导行动，这种思维和行动所带来的好处有数据支撑（这也是我为什么喜欢写博客，使用APP或者网站记录和总结自己的阅读、健身等的原因之一）。过去这几年，每年保持读书30到40本，并且是有针对性和选择性的精读；跑了好几次马拉松等等，都是这种思维和我付诸的行动带给我的实际回报。</p>
+
+<p>坏处嘛，则难以量化了，更多的是从心态上「竞争带来的压力」，时不时感到焦躁。</p>
+
+<p>说到这里，就回归到博客开头提到的「社交网络」「交际圈」「朋友圈」这个话题。人与人的竞争，参考对象常常就是身边可交流和接触的朋友。这些朋友，带给我的价值和压力，可谓是至关重要。</p>
+
+<p>如今最常联系的朋友，大多从事金融、IT等行业，有在大学甚至高中就认识的旧友，也有进入职场之后有深交的朋友。上次听<a href="https://ipn.li/kernelpanic/31/">内核恐慌:覃超专访（之一）</a>，覃超提到了：</p>
+
+<blockquote>
+  <p>「你周围的最近圈子5个人的平均水平，就是你的水平」</p>
+</blockquote>
+
+<p>如果周围的人的水平和收入在某个标准的TOP5%内，那么这个小圈子内这几个人的收入基本都不会在TOP5%之外，所谓的牛人的朋友还是牛人。</p>
+
+<p>有时候跟朋友交流下收入，倒是真切感受到这个定理，虽说有时候听到对面的一个数字，心里也啾啾，心想纳尼居然季度奖金就秒杀了我们年终奖，同样是敲代码的，怎么差别就这么大呢。啾啾归啾啾，但也就是这种交流和比较，也让自己有了十足的动力，让自己可以更加努力地投入到工作之中，与朋友们较劲几把。</p>
+
+<p>「圈子」是有门槛的，学术圈有门槛，常青藤交际圈有门槛，北大清华复旦同济的交际圈也有门槛，硅谷的人有自己的圈子，创投圈的人有自己的圈子，创业者有自己的圈子……每个圈子都有自己的门槛：或学历、或职业水平、或财富和收入。如果一个人没有一定的水平，根本就进不去这个圈子甚至接触不到这个圈子。</p>
+
+<p>有时候自己也是挺庆幸自己身边有这么一群牛逼的朋友，或者庆幸自己有这么一个机会，能认识到上面提到的这些人。通过种种途径，或公开，或私下，能知道这群人的最近都在干啥，想啥，当然，很大程序上，这得益于互联网和社交网络。</p>
+
+<h4 id="1">1.谈谈一些朋友和认识的一些人对我的影响</h4>
+
+<p>下面认识的朋友，均以字母指代，认识的人应该知道。</p>
+
+<p>G:大学就认识的好朋友，大我一届的同学院师兄，亦师亦友，同样是管理学院，同样是自学技术，喜欢读书写作，大三的时候就自学前端，毕业去了中国互联网TOP3的公司，现Github TOP20，有钱有妹纸有时间，颇为潇洒。对我影响最大的就是他工作第一年工作之努力，常见到他通宵Coding，第一年还拿了公司年度总裁奖。</p>
+
+<p>H:同样是大学就认识的好朋友，理科出生，学术功底好，先后就职于中国TOP3，10亿美刀独角兽，现在就职于南方金融行业IT部门，就是我上面说的季度奖金秒杀大多数人年终奖的那位。H的程序员味就足多了，以前是常不修边幅，现在好多了，很会自我驱动和主动学习，技术扎实，有段时间也是经常凌晨两三点才回家。</p>
+
+<p>J:被我们黑为程序员圈网红和人贩子，前同事，某国际Dev社区负责人之一，现在创业做IT社区和媒体，在北京的时候曾经蹭住过他一段时间，也是通过他，认识了很多大牛。</p>
+
+<p>X：这位就不算同龄人了，大学的时候读过他的书，大部分留学的人都读过他的书（俨然成了经典），后来一个很巧的机会线下接触到，后来又加了微信，早就财务自由了，投资人，不断地尝新和接触新的食物，不断地读书、总结和分享，应该算是大学生的「导师级」的人物，不少人喜欢，也有人不喜欢，算是对我思维影响比较大的一位前辈。</p>
+
+<p>F:美国著名孵化器的创业项目合伙人，react专家，同在上海，帅气又牛逼。</p>
+
+<p>D:亚洲名校，Github TOP10，拿过国内外各种Offer，写的空间和组件基本业内人人知晓，所谓的那种「咦，原来是XXX写的呀」那种人。</p>
+
+<p>A:大学的学姐，算是第一个把「间隔年」概念引入中国的人，北美留过学，世界各地当义工，很有个性的一个女生，现在也是某智能硬件公司的头头一样的人物。</p>
+
+<p>X:本来还想再多介绍几位，结果翻了翻通讯录，哈佛、斯坦福、清华、北大、微软、BAT、硅谷、创业者、企业家、网红圈等等，每一个人，或熟悉，或不熟，都在过去这段时间里给自己带来不同方面的感悟。</p>
+
+<p>这些朋友或者认识的人，大多是各种机缘巧合认识，拿社交网络的「关系」和一说，「强关系」的大多是同学、同事，「弱关系」的大多是有过一面之缘，或者在某一场合认识的。强关系的，经常互动沟通，弱关系的，我作为一个小菜，自然谈不上攀附勾结，最多也就是朋友圈点个赞罢了，偶尔有问题交流几句而已。</p>
+
+<p>强关系也好，弱关系也好，这些「其他人」的世界，就这么通过种种途径，开了一扇窗在我的面前，就这样，你可以知道常青藤的人原来会做这些事情；就这样，你知道创业不仅维艰，也有如此多的乐趣；就这样，你知道原来对于一件事情，不同领域或者行业或者地区的人，有着可能不一样的评论和见解。</p>
+
+<blockquote>
+  <p>「进入一个高水平的圈子，尽可能地进入水平更高的圈子，接触更多的资源，提高自己的能力，让自己创造更多的资源和价值，让自己成为资源的提供者」</p>
+</blockquote>
+
+<p>上面这句话，也是我自己消化之后得到的一个观点。有了想法，接下来就是实践和方法论。方法论是一个大难以，对于我来说，唯一的方法就是「学习」和「实践」。</p>
+
+<h4 id="2">2.时间是不会撒谎的</h4>
+
+<p>「时间是最公平的资源」这句话不假，但是同样的时间内，做了什么事情，收获了什么，却是大有差异。</p>
+
+<p>以我自己上班日为例:</p>
+
+<ul>
+<li>8:00 ~ 9:-00 起床</li>
+<li>9:00 ~ 10:00 上班通勤</li>
+<li>10:00 ~ 12:00 工作</li>
+<li>12:00 ~ 13:00 午餐&amp;&amp;休息</li>
+<li>14:00 ~ 19:30 下午工作</li>
+<li>19:30 ~ 20:00 下班通勤</li>
+<li>20:00 ~ 21:00 晚安（做饭、吃饭、洗碗balabala）</li>
+<li>~~</li>
+<li>24:00 ~ 1:00 上床</li>
+</ul>
+
+<p>上面是一个我过去一个季度生活工作作息的大致时间，在一个小时到半个小时之间浮动，列下来一看，实际上每天留给自己真正可自由掌握的时间屈指可数，基本上就是早8点到9点或者21点之后的睡前三个小时。这剩下的三个小时，中间再参杂一些看电视、玩游戏、玩手机，最后实际有效的时间更是所剩无几。</p>
+
+<p>但是，还是可以抽出一些时间的，最近，我又稍微调整了一下作息。</p>
+
+<ul>
+<li>7:30 ~ 8:-00 起床、准备早餐(20分钟运动)</li>
+<li>8:00 ~ 9:-00 洗漱准备</li>
+<li>9:00 ~ 10:00 上班通勤(随身携带kindle读书)</li>
+<li>10:00 ~ 12:00 工作</li>
+<li>12:00 ~ 13:00 午餐&amp;&amp;休息</li>
+<li>14:00 ~ 19:30 下午工作</li>
+<li>19:30 ~ 20:00 下班通勤</li>
+<li>20:00 ~ 21:00 晚安（做饭、吃饭、洗碗balabala）</li>
+<li>22:00 ~ 24:00 读书、学习等</li>
+<li>24:00 ~ 1:00 上床</li>
+</ul>
+
+<p>提前到7点30早起，早上多出来了半个小时的运动时间，下班基本改乘坐Uber打车回家，节省了约半个小时到40分钟，多花费10块钱。</p>
+
+<p>这样一来，每天不仅仅是多出来约一个小时的事情，更是让上午和晚上整个的空闲时间段前移，效率和精神状态更好。</p>
+
+<p>有时候，面对时间，还是很容易有一种懈怠的感觉，每天看一会电视，玩一会游戏，当时可能会觉得没什么，当日积月累下，算上一笔帐。</p>
+
+<h6 id="">两小时可以干什么？</h6>
+
+<p>1.看两集电视剧 <br>
+2.看一部电影 <br>
+3.二十盘炉石 <br>
+4.读200-300页书 <br>
+5.敲300-500行代码 <br>
+6.背20-50个单词。</p>
+
+<p>当上面的数据积累成年为单位之后又是什么呢？</p>
+
+<p>1.看720集电视剧，以平均一部36集计算，一年可能看上20部，基本算把全年的「电视上流行」看了一遍。 <br>
+2.360部电影，这个有点夸张了。 <br>
+3.7200局炉石传说，加上周末和其他时间的，破万是妥妥的，有人可能觉得夸张，同样拿我自己为例，大学的时候有段时间喜欢玩三国杀，最后看了下自己的数据，两年多下来，玩了两万多局。 <br>
+4.约2天一本书，一年至少可以读100本书。 <br>
+5.代码帐不好算，但是Github上全点亮也是妥妥的了。 <br>
+6.约3000-5000的单词，至少雅思词汇能背完了，不要问我为什么知道，高中二年级的时候，我自己买了一本新东方的雅思词汇，每天背1一页的样子，一年下来刚好背完，至今的英文阅读、交流基础，都可以算是从那个时间打下的基础。</p>
+
+<p>当然，对于每个人来说，很难甚至不可能真的做到每天都固定做一件事情，但是一个普通的时间积累下来引起的质变，还是很可观的。</p>
+
+<h4 id="">后记</h4>
+
+<p>这篇博文写在年前，断断续续中断了一个月今天才结尾，春节假期，读了几本有关中国改革后民营企业发展史的书，<a href="http://book.douban.com/subject/3151575/">《激荡30年》</a>·<a href="http://book.douban.com/subject/1072438/">《大败局》</a>、<a href="http://book.douban.com/subject/2348372/">《万物生长》</a>等等，回看这批企业家的发家史，也是一部充满了灰色的挣扎史。</p>
+
+<p>2015年下半年健身减少，加上晚上没控制饮食，体重一下子增长到160斤，春节有意控制饮食，倒又降低了5斤多。</p>
+
+<p>有志，且有智。一个是Ambition，一个是Wisdom和Intelligence。</p>
+
+<p>想到未来，如何才能聪明地去达成一个又一个Ambition，想起来也是觉得一阵激动。</p>]]></content:encoded></item><item><title><![CDATA[Review of 2015:剁手篇]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/cover.jpg" class="lazy" alt="cover"></p>
+
+<p>这两周，各种APP、在线服务的年度回顾、年度账单、年度行程balabala也依照用户过去一年的数据出来了。</p>
+
+<p>看了下支付宝的年度账单，2015年也算得上是各种流水的一年，刚开始工作，一堆东西要买：工作需要的、生活需要的，加上房租、生活开销、差旅花销，差不多是每个月月光。</p>
+
+<p>这篇博文，稍微分享一下2015年剁手购买的大大小小的东西，以实物为主，也当是一个总结，顺便简单说下使用体验。</p>
+
+<h4 id="">一.外设</h4>
+
+<p>1.HHKB PRO2 <br>
+<img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/hhkb1.JPG" class="lazy" alt="full-img"></p>
+
+<p>女朋友送的周年礼物，使用了两个月，HHKB被称作键盘退烧神器，将近一千五百元的售价，的确算是很贵，但是对于长期使用键盘的程序员和文字工作者来说（尤其是对于作为两者结合体的我），带来的打字手感和操作效率的提升（我习惯VIM），应该还是属于性价比很高的产品。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/hhkb2.JPG" class="lazy" alt="full-img"></p>
+
+<p>2.Wacom INTUOS Pro</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/b9.jpg" class="lazy" alt="full-img"></p>
+
+<p>影拓手绘板，买来送给妹纸的回礼，我们公司配的也是这款，影拓是手绘板专业的品牌，INTUOS pro是影拓能买到的不带显示屏系列中最贵的了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/b10.jpg" class="lazy" alt="full-img"></p>
+
+<p>3.罗技G502、罗技G602</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/mouse.JPG" class="lazy" alt="full-img"></p>
+
+<p>双十一之前半个月，以优惠价269买了国行罗技G502（</p>]]></description><link>http://luolei.org/review-or-2015-gadget/</link><guid isPermaLink="false">035760f7-3785-47ac-a444-8e68841620de</guid><category><![CDATA[数码]]></category><category><![CDATA[硬件]]></category><category><![CDATA[review]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sat, 16 Jan 2016 06:44:58 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/hhkb1.JPG" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/hhkb1.JPG" alt="Review of 2015:剁手篇"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/cover.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>这两周，各种APP、在线服务的年度回顾、年度账单、年度行程balabala也依照用户过去一年的数据出来了。</p>
+
+<p>看了下支付宝的年度账单，2015年也算得上是各种流水的一年，刚开始工作，一堆东西要买：工作需要的、生活需要的，加上房租、生活开销、差旅花销，差不多是每个月月光。</p>
+
+<p>这篇博文，稍微分享一下2015年剁手购买的大大小小的东西，以实物为主，也当是一个总结，顺便简单说下使用体验。</p>
+
+<h4 id="">一.外设</h4>
+
+<p>1.HHKB PRO2 <br>
+<img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/hhkb1.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>女朋友送的周年礼物，使用了两个月，HHKB被称作键盘退烧神器，将近一千五百元的售价，的确算是很贵，但是对于长期使用键盘的程序员和文字工作者来说（尤其是对于作为两者结合体的我），带来的打字手感和操作效率的提升（我习惯VIM），应该还是属于性价比很高的产品。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/hhkb2.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>2.Wacom INTUOS Pro</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/b9.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>影拓手绘板，买来送给妹纸的回礼，我们公司配的也是这款，影拓是手绘板专业的品牌，INTUOS pro是影拓能买到的不带显示屏系列中最贵的了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/b10.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>3.罗技G502、罗技G602</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/mouse.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>双十一之前半个月，以优惠价269买了国行罗技G502（右边有线那个），自带编程，七八个按键可以设置常用的命令，配合Mac还是挺方便的，后来入职阅文之后，想着还得配一个鼠标，又以249的优惠价买了一个罗技G602（左边无线）。</p>
+
+<p>G502的滚轮可以在卡尺和无阻尼状态切换，无阻尼状态下，长网页（知乎之类的）刷屏特别爽，而且呼吸灯效果也可以调整，比较酷炫，相比而言，G602更加精致，两个在Windows和OSX下都有专门的客户端，可以设置高级功能，设置保存在机载内存上，无需每换一台电脑都重新设置。</p>
+
+<p>4.Ergomax Commander人体工程学椅子</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2015/10/desk1.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>椅子是通过Chiphell优惠购买的<a href="http://www.chiphell.com/thread-1164359-1-1.html">Ergomax Commander</a>，双背面，扶手可调，带头靠，这几个月使用下来，在家工作上网的时候，明显还是要舒服很多，人体工程学算是大件外设了，建议有固定住所的人配一个，要不搬家起来特别麻烦，组装之前30公斤，不管是拆还是装，都废功夫。</p>
+
+<p>5.木桌</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/desk.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>在家里布置了一个1米6*70厘米的木桌，详情可以参考我之前写的<a href="https://luolei.org/desk-setup-2015/">每个程序员都应该有张木桌</a>。</p>
+
+<p>6.AOC Q2770PQU 27寸2K显示器</p>
+
+<p>可参考木桌图，家里原本有一个Dell的2312HM全高清的23.5寸显示器，用了将近有5年了，在猎豹的时候用的是27寸2K的iMac 27，现在公司用的是5K Retina屏的27寸iMac，回到家对着那个1080P的小戴尔实在是不习惯了。在网上搜了一圈，2K和4K显示器都难找到心仪的。</p>
+
+<p>我所要求的是至少2560分辨率，且不低于27寸（否则字会太小，眼镜看久了累）。</p>
+
+<ul>
+<li>27寸</li>
+<li>2K分辨率</li>
+<li>非TN屏</li>
+<li>带DP接口</li>
+</ul>
+
+<p>以上面四个纬度寻找，发现Dell P27和U27和华硕27寸系列有几款合适，可是价格却在3.7K到5K不等，大大超过了预算，本来看中了Dell的U2515，可是只有24.5寸的大小，又实在让自己难以下决心，后来再经过比较，12月的时候看到京东搞活动，AOC这款Q2770PQU降价到2.5K，立马就下单买了，实际体验来看，外观质感尚好，漏光正常，可旋转，还是比较满意的。</p>
+
+<p>个人建议是，除非专业需求+壕，显示器3K价位以下不必要纠结太多，如果要买一个5K左右的显示器，还不如再加一笔钱，直接定制一台27寸的5K iMac，不管是开发还是设计或者视频剪辑，都划算多了。</p>
+
+<h4 id="">二.数码</h4>
+
+<p>1.理光GR</p>
+
+<p>神机一枚，性价比超高，街拍神器，小巧+单手操作很方便，APS-C画幅，买的时候加上配件约4K人民币，照片效果可以参参考我博客Tag:<a href="https://luolei.org/tag/li-guang-gr/">理光GR</a>，现在GR2代已经出来了，二代售价约4.5K。</p>
+
+<p>1.1 富图宝 X4I-E便携三脚架</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/sjj.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>上面这张图是旗舰店淘宝店铺的，580元，1.16KG，伸缩支架，出去旅游的时候也算是合影神器了，不重，可以随时挂在手上。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/sj2.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>我同妹纸出去旅游的手，常常直接这么把理光GR固定在云台上，上面卡扣可以随时连着相机一起拆下。</p>
+
+<p>2.小蚁运动相机</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2015/04/YI9.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>人民币399，相比Gopro而言，以1/4甚至1/5不到的价格，达到80%甚至90%的效果（极限运动场景下差距不小），算是性价比很高的旅游神器。2015年也在小蚁公司工作了将近半年，虽然已经离职了，但是总的来说，还是推荐下产品。</p>
+
+<p>在我的博客有不少照片和视频<a href="https://luolei.org/tag/yicamera/">小蚁运动相机</a>，有兴趣的读者可以去看看。</p>
+
+<p>3.魅蓝</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/meizu.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>原来用的是魅族的魅蓝Note，后来嫌太大了，根本用不上，就又卖了，再后来，发现没个Android手机，还是挺不方便的，后来刚好又办移动的宽带，就又买了一个魅蓝新出的魅蓝，5寸手感刚好，720P对于我这种对手机屏幕无爱的用户来说，也完全够用了。双卡双待，现在放我的联通+移动卡当电话机，iPhone6就用电信卡当上网机了（每个月3G流量根本用不完）。</p>
+
+<p>对于Android机，现在基本没怎么关注了，每个月都有新品出来，但是相比iOS生态，差距还是太大，周围的同事，基本全部都是用iPhone。</p>
+
+<p>4.Bose SoundLink Mini </p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/bose.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>BOSE出品的经典小钢炮，算得上是音质最好的是蓝牙音响了，买的时候1200多，偶尔拿来连手机、iPad放音乐，也会通过蓝牙连电脑外放。怎么说呢，用了这个之后，其他外放音响真的算是渣了，偶尔在家听听交响乐什么的，还是挺幸福的。</p>
+
+<p>5.网件r6300v2</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/b13.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>双十一的时候京东特价469买的，家里装了电信100MB的宽带，加上家里无线设备多，也有NAS需求，经常要在设备之间传输，r6300v2算是直接解决了无线的瓶颈，无线传输基本都是稳定在20Mb/s的速度之上，看1080P什么的自然没有问题了，再也不卡顿了。另外刷了梅林固件，配合SS全局翻墙，现在家里也是无痛上网了。</p>
+
+<p>可以参考<a href="https://luolei.org/hiwifi-shadowsocks/">极路由Shadowsocks家庭无痛翻墙实践</a>，原理差不多。</p>
+
+<p>6.Chromecast 2.0</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2015/11/chromecast/4.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>具体可以参考我的评测<a href="https://luolei.org/chromecast-2-unboxing-and-review/">目测这是第一个在大陆的谷歌Chromecast评测</a>。</p>
+
+<p>7.索尼EX650AP入耳耳机</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/sony.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>国行，带线控，给iPhone听歌用，感觉还不错，11月的时候线损坏，直接去上海索尼售后换了一根新的。</p>
+
+<h4 id="">其他</h4>
+
+<p>1.乐视 S50 Air 智能电视</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2015/11/chromecast/s4.JPG" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>1080p售价，50寸的电视放到客厅之后，客厅立马还是好玩了很多，回到家的娱乐活动还是丰富了不少，电视剧、电影、视频网站的订阅。</p>
+
+<p>2.Xbox One + kinect体感摄像头</p>
+
+<p>买了一台韩版的Xbox One，后来断断续续买了几个游戏，偶尔在家玩，这两个月忙就没时间了，朋友到家里来的时候，可以一起跳跳舞、切切水果，也是挺欢乐的。</p>
+
+<p>3.世特力（Century）裸族CSS25U3BK6G-7MM移动硬盘盒 + 饥饿鲨(OCZ) Arc 100苍穹系列 240G 固态硬盘</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2015/11/ssd/show.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>给公司iMac配的SSD+USB3.0硬盘组合，具体可以参考我的博客<a href="https://luolei.org/imac-5k-external-usb-ssd-update/">iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验</a>。</p>
+
+<p>4.GODO PD01 2.5/3.5英寸SATA3转USB3.0 OTB移动硬盘盒 + 西部数据(WD)蓝盘 1TB </p>
+
+<p>插在6300路由器上当Mac的Time Machine备份硬盘和NAS，一些电影直接放在这个硬盘里面，方面家里的所有连网设备读取。</p>
+
+<p>5.小米智能摄像机</p>
+
+<p>买了两个，分别放在客厅和阳台上方，实时查看家里的动静，拿来看看猫什么的还不错，也能当安防用，开启报警后，会自动把视频推送到微信或者APP上。</p>
+
+<p>6.Panasonic 松下 MC-CL340 真空吸尘器</p>
+
+<p>租住的59平米的一居室小房子，靠近马路，客厅茶几下面放了一个将近两米的地毯，加上有猫，灰和毛还是挺多的，在一号店特价买了一个吸尘器，每两天花个五分钟把卧室客厅阳台吸尘一下，真的算是提升幸福感的居家神器，以前是不敢在家赤脚，吸尘之后，地板要干净多了，不会有灰灰的感觉。</p>
+
+<p>6.猫+小花园</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/cat.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>秋天的时候，想着阳台太冷清了，在周末去家旁边的花鸟市场买了一些花草，自己手工做了一个木的吊架，阳台一下子变得生机勃勃和充满生命力。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/buy/cats.jpg" class="lazy" alt="Review of 2015:剁手篇"></p>
+
+<p>今年先后领养了三只猫，家里也是热闹不少，灰白相间的这只叫卢卢，另外一只叫UBer，分别是妹纸从同事家领养和宠物医院领过来的，养了半年，现在倒也变胖了不少，卢卢11月底的时候做了绝育手术，卢卢比较粘人讨人喜欢，Uber就属于那种调皮惹人烦的了，每个月几只猫都得吃上好几袋猫粮，每个月也得买好几袋的猫砂，也算是一个固定花销了。</p>
+
+<p>家里多了点生物，也有点趣味，过完年开春，又能重新布置下，倒也挺期待的。</p>]]></content:encoded></item><item><title><![CDATA[目测是大陆第一个Netflix全平台评测]]></title><description><![CDATA[<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/cover.jpg" class="lazy" alt="cover"></p>
+
+<p>2016年新年，Netflix在CES大会上宣布将服务扩展至130个新的国家，基本覆盖了全球，当然，中国大陆是无缘了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/house.jpg" class="lazy" alt="full-img"></p>
+
+<p>国人对Netflix的印象，大多应该都留在「Netflix拍了一个纸牌屋」上，Netflix是一家流媒体公司，全球有七千多万用户，给国外生活在「版权禁顾」水生火热的歪国人提供了一个「上网便宜看高清节目」的高性价比方案。</p>
+
+<p>Netflix有一个月的免费试用，这次新增加的国家和地区中包含了中国香港，想着不用白不用，我也注册了一个香港的Netflix帐号，下面这篇博文就做一下简单的评测。</p>
+
+<ul>
+<li>桌面端</li>
+<li>iOS</li>
+<li>Android</li>
+<li>Xbox One</li>
+<li>Chromecast</li>
+</ul>
+
+<p>基本把Netflix全平台都覆盖了，这篇文章不会做过多的画质、平台影片数量等数据上的分析，更多从实际体验的角度，来谈一谈。</p>
+
+<h4 id="">注册&amp;&amp;收费</h4>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/nf1.jpg" class="lazy" alt="full-img"></p>
+
+<p>现在登录<a href="https://www.netflix.com">Netflix</a>官网，已经会自动根据你的地区跳转到当地的页面。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/price.jpg" class="lazy" alt="full-img"></p>
+
+<p>Netflix提供了基本、标准和高级三个Plan，分别是HK$63、HK$78、HK$93，对应的就是US$7.</p>]]></description><link>http://luolei.org/review-orf-netflix-2016/</link><guid isPermaLink="false">6a45869b-bc28-48ef-b9a4-65409bdccd95</guid><category><![CDATA[评测]]></category><category><![CDATA[数码]]></category><dc:creator><![CDATA[罗磊]]></dc:creator><pubDate>Sun, 10 Jan 2016 06:33:35 GMT</pubDate><media:content url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/x3.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/x3.jpg" alt="目测是大陆第一个Netflix全平台评测"><p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/cover.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>2016年新年，Netflix在CES大会上宣布将服务扩展至130个新的国家，基本覆盖了全球，当然，中国大陆是无缘了。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/house.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>国人对Netflix的印象，大多应该都留在「Netflix拍了一个纸牌屋」上，Netflix是一家流媒体公司，全球有七千多万用户，给国外生活在「版权禁顾」水生火热的歪国人提供了一个「上网便宜看高清节目」的高性价比方案。</p>
+
+<p>Netflix有一个月的免费试用，这次新增加的国家和地区中包含了中国香港，想着不用白不用，我也注册了一个香港的Netflix帐号，下面这篇博文就做一下简单的评测。</p>
+
+<ul>
+<li>桌面端</li>
+<li>iOS</li>
+<li>Android</li>
+<li>Xbox One</li>
+<li>Chromecast</li>
+</ul>
+
+<p>基本把Netflix全平台都覆盖了，这篇文章不会做过多的画质、平台影片数量等数据上的分析，更多从实际体验的角度，来谈一谈。</p>
+
+<h4 id="">注册&amp;&amp;收费</h4>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/nf1.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>现在登录<a href="https://www.netflix.com">Netflix</a>官网，已经会自动根据你的地区跳转到当地的页面。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/price.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>Netflix提供了基本、标准和高级三个Plan，分别是HK$63、HK$78、HK$93，对应的就是US$7.99、US$9.99    、US$11.99三档价格，约合人民币54、66和79元，跟微软、EA这些国际厂商一样，一个服务，全球同价。</p>
+
+<p>三个套餐具体的区别可以参考上图，只有高级版支持高画质和超高画质，不得不说，对于已经习惯了优酷、乐视一众国内1080P甚至2K视频的中国用户来说，这个套餐，略坑。</p>
+
+<p>现在Netflix正在搞活动，2月7号之前免费试用，三个套餐任意选择均可。</p>
+
+<p>注册的时候需要填写信用卡，如果仅仅是体验，建议2月7号之前记得取消订阅，免得扣费。</p>
+
+<h4 id="">网络条件</h4>
+
+<p>Netflix暂未进入大陆，服务器和CDN这种事情就不用考虑了，直接访问的话基本什么视频都看不了，我家里在路由器层部署了SS白名单模式翻墙，使用的香港的服务器，带宽能达到30Mb，可以满足高清视频的需求（看Youtube是默认1080p）。</p>
+
+<p>对于没有网络条件的用户来说，基本就不用考虑Netflix了。</p>
+
+<h4 id="">初印象</h4>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/nf3.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>Netflix网页端才用的是Gallery的模式，一看就是需要高级浏览器才能支持，有点电视墙的味道，热门的电影、电视剧都都有。</p>
+
+<p>之所以放这个网页截图，是为了下文做铺垫。</p>
+
+<h4 id="app">App体验</h4>
+
+<p>Netflix拥有全平台应用，iOS、Android、Xbox、智能机顶盒均有，在中国的AppStore目前还没办法搜索到Netflix的应用，需要切换到其他地区的AppStore才能找到。</p>
+
+<p>我常在iPad上看视频，下面就以iPad上的Netflix为例，说下观影体验。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/ios0.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>Netflix有一个家庭成员的概念，一个帐号，可以选择多个User，每个User都可以有不同的记录，有点Xbox Live的概念，还有一个儿童专用的帐号，根据不同家庭成员的不同爱好，推荐不一样的节目。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/ios1.jpg?ver" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>进入首页，依旧是节目幕墙的概念，是不是跟Web端很像，后续再体验iPhone，Android，Xbox等设备，发现所有的App都采用这个形式，Netflix全平台用户体验十分统一，没有什么学习成本，所以下面的博文，就不会再单独iPhone和Android上的App，因为都差不多。</p>
+
+<p><img data-url="https://luoleiorg.b0.upaiyun.com/blog/2016/01/netflix/ios2.jpg" class="lazy" alt="目测是大陆第一个Netflix全平台评测"></p>
+
+<p>美国流行的电视剧、电影都有，电视剧中，毒枭、绿箭侠、铁杉树丛、女子监狱均属于高质量作品。</p>
+
+<p>大概翻了翻，大片不少，刚刚搜了一下数据。给大家一个台湾地区的数据供参考
