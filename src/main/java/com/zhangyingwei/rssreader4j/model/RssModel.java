@@ -1,6 +1,9 @@
 package com.zhangyingwei.rssreader4j.model;
 
+import java.util.ArrayList;
 import java.util.List;
+
+import net.sf.json.JSONObject;
 
 import org.dom4j.Document;
 
@@ -13,7 +16,14 @@ public class RssModel {
 		this.rssHead = rssHead;
 		this.rssEntitys = rssEntity;
 	}
-
+	public RssModel(JSONObject rssJson) {
+		super();
+		this.rssHead = new RssHead(rssJson.getJSONObject("rssHead"));
+		rssEntitys = new ArrayList<RssEntity>();
+		for(Object obj:rssJson.getJSONArray("rssEntitys")){
+			this.rssEntitys.add(new RssEntity(JSONObject.fromObject(obj)));
+		}
+	}
 	private RssHead rssHead;
 	private List<RssEntity> rssEntitys;
 	public RssHead getRssHead() {

@@ -1,5 +1,7 @@
 package com.zhangyingwei.rssreader4j.model;
 
+import net.sf.json.JSONObject;
+
 import org.dom4j.Document;
 
 public class RssHead {
@@ -13,6 +15,13 @@ public class RssHead {
 		this.link = link;
 		this.updated = updated;
 		this.description = description;
+	}
+	public RssHead(JSONObject jsonHead) {
+		super();
+		this.title = jsonHead.getString("title");
+		this.link = jsonHead.getString("link");
+		this.updated = jsonHead.getString("updated");
+		this.description = jsonHead.getString("description");
 	}
 	public String getTitle() {
 		return title;

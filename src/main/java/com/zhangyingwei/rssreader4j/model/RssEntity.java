@@ -1,5 +1,7 @@
 package com.zhangyingwei.rssreader4j.model;
 
+import net.sf.json.JSONObject;
+
 public class RssEntity {
 	private String title;
 	private String link;
@@ -62,6 +64,14 @@ public class RssEntity {
 	}
 	public RssEntity(String title, String link, String content,
 			String published, String description) {
+		super();
+		this.title = title;
+		this.link = link;
+		this.content = content;
+		this.published = published;
+		this.description = description;
+	}
+	public RssEntity(JSONObject jsonEntity) {
 		super();
 		this.title = title;
 		this.link = link;
