@@ -24,7 +24,7 @@ import com.zhangyingwei.rssreader4j.model.RssModel;
 public class XmlHandler {
 	static Logger logger = Logger.getLogger(XmlHandler.class);
 	/**
-	 * 根据url读取document对象
+	 * 锟斤拷锟絬rl锟斤拷取document锟斤拷锟斤拷
 	 * @param url
 	 * @return
 	 * @throws Exception
@@ -37,7 +37,7 @@ public class XmlHandler {
 			SAXReader reader = new SAXReader();
 			document = reader.read(path);
 		} catch (MalformedURLException e) {
-			logger.info("@:url err", e);
+			throw new RssAppException();
 		} catch (DocumentException e) {
 			try {
 				SAXReader reader = new SAXReader();
@@ -46,14 +46,14 @@ public class XmlHandler {
 					document = reader.read(stream);
 				}
 			} catch (Exception e2) {
-				logger.info("@:xml read err", e);
+				throw new RssAppException();
 			}
 		}
 		return document;
 	}
 	
 	/**
-	 * 获取root节点
+	 * 锟斤拷取root锟节碉拷
 	 * @param document
 	 * @return
 	 */

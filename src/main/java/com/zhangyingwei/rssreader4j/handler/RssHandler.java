@@ -15,54 +15,45 @@ public class RssHandler {
 	
 	static Logger logger = Logger.getLogger(RssHandler.class);
 	/**
-	 * ¹¹½¨RssModel¶ÔÏó
+	 * ï¿½ï¿½ï¿½ï¿½RssModelï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
+	 * @throws Exception 
 	 */
-	public static RssModel buildRssModel(String url) throws RssAppException{
+	public static RssModel buildRssModel(String url) throws Exception{
 		return new RssModel(buildRssHead(url), buildRssEntitys(url));
 	}
 	
 	/**
-	 * ¹¹½¨RssHead¶ÔÏó
+	 * ï¿½ï¿½ï¿½ï¿½RssHeadï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
+	 * @throws Exception 
 	 */
-	public static RssHead buildRssHead(String url) throws RssAppException{
+	public static RssHead buildRssHead(String url) throws Exception{
 		RssHead rssHead = null;
-		try {
-			Document document = XmlHandler.readDocument(url);
-			if(document!=null){
-				rssHead = XmlHandler.readRssHead(document.getRootElement());
-			}else{
-				logger.info("@:Document is null");
-			}
-		} catch (RssAppException e) {
-//			throw new RssAppException("@:build rsshead err", e);
-			
-		} catch (Exception e) {
-			e.printStackTrace();
+		Document document = XmlHandler.readDocument(url);
+		if(document!=null){
+			rssHead = XmlHandler.readRssHead(document.getRootElement());
+		}else{
+			throw new RssAppException("@:Document is null");
 		}
 		return rssHead;
 	}
 	
 	/**
-	 * ¹¹½¨RssEntitys¶ÔÏó
+	 * ï¿½ï¿½ï¿½ï¿½RssEntitysï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
+	 * @throws Exception 
 	 */
-	public static List<RssEntity> buildRssEntitys(String url){
+	public static List<RssEntity> buildRssEntitys(String url) throws Exception{
 		List<RssEntity> rssEntitys = null;
-		try {
-			Document document = XmlHandler.readDocument(url);
-			if(document!=null){
-				rssEntitys = XmlHandler.readRssEneity(document.getRootElement());
-			}else{
-				logger.info("@:Document is null");
-			}
-		} catch (Exception e) {
-			logger.info("@:build rssentity err");
-//			throw new RssAppException("@:build rssentity err", e);
+		Document document = XmlHandler.readDocument(url);
+		if(document!=null){
+			rssEntitys = XmlHandler.readRssEneity(document.getRootElement());
+		}else{
+			logger.info("@:Document is null");
 		}
 		return rssEntitys;
 	}

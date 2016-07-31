@@ -5,7 +5,7 @@ import com.zhangyingwei.rssreader4j.handler.RssHandler;
 import com.zhangyingwei.rssreader4j.model.RssModel;
 
 public class RssHandlerTest {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 //		String url = "http://blog.zhangyingwei.com/atom.xml";
 //		String url = "http://www.zi-han.net/feed";
 		String url = "https://luolei.org/rss/";
