@@ -11,7 +11,7 @@ import com.zhangyingwei.rssreader4j.model.RssHead;
 
 public class TestHandler {
 	
-	@Test
+//	@Test
 	public static void test1() throws Exception{
 //		String url = "http://blog.zhangyingwei.com/atom.xml";
 		String url = "http://blog.daimajia.com/feed/";
@@ -24,7 +24,7 @@ public class TestHandler {
 //		System.out.println(e.getText());
 	}
 	
-	public void test2() throws Exception{
+	public static void test2() throws Exception{
 		String url = "http://blog.zhangyingwei.com/atom.xml";
 		Document document = XmlHandler.readDocument(url);
 		RssHead rssHead = XmlHandler.readRssHead(document.getRootElement());

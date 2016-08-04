@@ -2,6 +2,7 @@ package com.zhangyingwei.rssreader4j.handler;
 
 import java.util.List;
 
+import org.apache.log4j.Logger;
 import org.dom4j.Document;
 import org.dom4j.DocumentFactory;
 
@@ -12,45 +13,47 @@ import com.zhangyingwei.rssreader4j.model.RssModel;
 
 public class RssHandler {
 	
+	static Logger logger = Logger.getLogger(RssHandler.class);
 	/**
-	 * ¹¹½¨RssModel¶ÔÏó
+	 * ï¿½ï¿½ï¿½ï¿½RssModelï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
+	 * @throws Exception 
 	 */
-	public static RssModel buildRssModel(String url){
+	public static RssModel buildRssModel(String url) throws Exception{
 		return new RssModel(buildRssHead(url), buildRssEntitys(url));
 	}
 	
 	/**
-	 * ¹¹½¨RssHead¶ÔÏó
+	 * ï¿½ï¿½ï¿½ï¿½RssHeadï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
+	 * @throws Exception 
 	 */
-	public static RssHead buildRssHead(String url){
+	public static RssHead buildRssHead(String url) throws Exception{
 		RssHead rssHead = null;
-		try {
-			Document document = XmlHandler.readDocument(url);
+		Document document = XmlHandler.readDocument(url);
+		if(document!=null){
 			rssHead = XmlHandler.readRssHead(document.getRootElement());
-		} catch (RssAppException e) {
-			throw new RssAppException("@:build rsshead err", e);
-		} catch (Exception e) {
-			e.printStackTrace();
+		}else{
+			throw new RssAppException("@:Document is null");
 		}
 		return rssHead;
 	}
 	
 	/**
-	 * ¹¹½¨RssEntitys¶ÔÏó
+	 * ï¿½ï¿½ï¿½ï¿½RssEntitysï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
+	 * @throws Exception 
 	 */
-	public static List<RssEntity> buildRssEntitys(String url){
+	public static List<RssEntity> buildRssEntitys(String url) throws Exception{
 		List<RssEntity> rssEntitys = null;
-		try {
-			Document document = XmlHandler.readDocument(url);
+		Document document = XmlHandler.readDocument(url);
+		if(document!=null){
 			rssEntitys = XmlHandler.readRssEneity(document.getRootElement());
-		} catch (Exception e) {
-			throw new RssAppException("@:build rssentity err", e);
+		}else{
+			logger.info("@:Document is null");
 		}
 		return rssEntitys;
 	}

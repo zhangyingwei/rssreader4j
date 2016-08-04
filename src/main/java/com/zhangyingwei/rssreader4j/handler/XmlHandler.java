@@ -1,6 +1,7 @@
 package com.zhangyingwei.rssreader4j.handler;
 
 
+import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
@@ -8,6 +9,7 @@ import java.util.List;
 
 import javax.xml.parsers.ParserConfigurationException;
 
+import org.apache.log4j.Logger;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
@@ -20,9 +22,9 @@ import com.zhangyingwei.rssreader4j.model.RssHead;
 import com.zhangyingwei.rssreader4j.model.RssModel;
 
 public class XmlHandler {
-	
+	static Logger logger = Logger.getLogger(XmlHandler.class);
 	/**
-	 * ¸ù¾Ýurl¶ÁÈ¡document¶ÔÏó
+	 * ï¿½ï¿½ï¿½urlï¿½ï¿½È¡documentï¿½ï¿½ï¿½ï¿½
 	 * @param url
 	 * @return
 	 * @throws Exception
@@ -35,20 +37,23 @@ public class XmlHandler {
 			SAXReader reader = new SAXReader();
 			document = reader.read(path);
 		} catch (MalformedURLException e) {
-			throw new RssAppException("@:url err", e);
+			throw new RssAppException();
 		} catch (DocumentException e) {
 			try {
 				SAXReader reader = new SAXReader();
-				document = reader.read(HttpHandler.doGet(url).getResponseBodyAsStream());
+				InputStream stream = HttpHandler.loadGetResponseBodyAsStream(url);
+				if(stream!=null){
+					document = reader.read(stream);
+				}
 			} catch (Exception e2) {
-				throw new RssAppException("@:xml read err", e);
+				throw new RssAppException();
 			}
 		}
 		return document;
 	}
 	
 	/**
-	 * »ñÈ¡root½Úµã
+	 * ï¿½ï¿½È¡rootï¿½Úµï¿½
 	 * @param document
 	 * @return
 	 */

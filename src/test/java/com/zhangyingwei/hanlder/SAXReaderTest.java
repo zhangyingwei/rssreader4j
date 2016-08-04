@@ -3,7 +3,6 @@ package com.zhangyingwei.hanlder;
 import org.dom4j.Document;
 import org.dom4j.io.SAXReader;
 import com.zhangyingwei.rssreader4j.handler.SSLHandler;
-import com.zhangyingwei.rssreader4j.util.HttpUtil;
 
 public class SAXReaderTest {
 	public static void main(String[] args) throws Exception {
@@ -11,7 +10,7 @@ public class SAXReaderTest {
 //		String url = "https://www.gehaowu.com/notes/atom.xml";
 //		String url = "http://blog.zhangyingwei.com/atom.xml";
 		SSLHandler.trustAllHosts();
-		String ret = HttpUtil.sendGet(url, "");
+//		String ret = HttpUtil.sendGet(url, "");
 //		File file = new File(url);
 //		URL path = new URL(url);
 		SAXReader reader = new SAXReader();
