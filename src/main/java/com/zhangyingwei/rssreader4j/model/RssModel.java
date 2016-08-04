@@ -38,4 +38,7 @@ public class RssModel {
 	public void setRssEntitys(List<RssEntity> rssEntity) {
 		this.rssEntitys = rssEntity;
 	}
+	public boolean isEntitysEmpty() {
+		return this.rssEntitys.size()==0;
+	}
 }
